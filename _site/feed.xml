@@ -1,28 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en_us"><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en_us" /><updated>2024-01-03T03:24:06+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Aska Intelligence</title><author><name>Sal</name></author><entry xml:lang="en"><title type="html">Aska</title><link href="http://localhost:4000/Aska-en/" rel="alternate" type="text/html" title="Aska" /><published>2023-01-02T00:00:00+00:00</published><updated>2023-01-02T00:00:00+00:00</updated><id>http://localhost:4000/Aska-en</id><content type="html" xml:base="http://localhost:4000/Aska-en/"><![CDATA[<p>Aska is a SaaS application that allows for quantitative evaluation of open-ended survey responses.</p>
-
-<p>Aska operates like a social networking platform for sharing opinions. When an administrator user initiates a topic, respondent users can view each other’s opinions, ‘like’ these opinions, or post their own. Based on the ‘likes’ collected from respondents, Aska organizes and analyzes this data using machine learning and Large Language Models (LLMs). It provides analysis results in a structured format. This method, which employs <a href="#">a different approach than natural language processing, allows for quantitative evaluation of surveys, including open-ended responses.</a></p>
-
-<p>In addition to the feature-rich Aska, we also offer a simplified version, <code>Alaska</code>, which is available for a free trial.</p>
-
-<p><img src="/assets/images/Aska_usage_en.png" alt="Aska_usage_en" /></p>
-
-<h4 id="ideal-for">Ideal for:</h4>
-<ul>
-  <li>Those who want to conduct surveys but can’t narrow down typical responses, making it impossible to use standard multiple-choice formats.</li>
-  <li>Those who wish to conduct surveys on subjects that are difficult to characterize with words, such as images and videos.</li>
-  <li>Those who have previously conducted open-ended surveys but were unable to quantitatively evaluate the responses, leading to unused data.</li>
-  <li>Those who want to conduct surveys in multiple languages simultaneously.</li>
-</ul>
-
-<h4 id="other-features">Other Features:</h4>
-<ul>
-  <li>Standard multiple-choice responses are possible.</li>
-  <li>Integration with other survey systems is available.</li>
-  <li>To ensure the quality of submissions, responses can be set to remain private until approved by an administrator, preventing them from being shared with other respondents.</li>
-  <li>To avoid priming effects, it’s possible to configure the system so respondents can view others’ answers only after submitting their own.</li>
-  <li>Images and videos can be embedded for reference. Choices can be set not just as text but also as images or videos, allowing for flexible surveys.</li>
-  <li>Dynamic translation allows for conducting surveys in different languages simultaneously (currently available only in our custom-ordered surveys).</li>
-</ul>]]></content><author><name>Sal</name></author><category term="Survey" /><summary type="html"><![CDATA[Aska is a SaaS application that allows for quantitative evaluation of open-ended survey responses.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/SurveyApp.png" /><media:content medium="image" url="http://localhost:4000/assets/images/SurveyApp.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry xml:lang="ja"><title type="html">Aska</title><link href="http://localhost:4000/Aska-ja/" rel="alternate" type="text/html" title="Aska" /><published>2023-01-01T00:00:00+00:00</published><updated>2023-01-01T00:00:00+00:00</updated><id>http://localhost:4000/Aska-ja</id><content type="html" xml:base="http://localhost:4000/Aska-ja/"><![CDATA[<p>自由記述式アンケートを定量的に評価できるSaaSアプリです。</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en_us"><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en_us" /><updated>2024-01-03T04:06:32+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Aska Intelligence</title><author><name>Sal</name></author><entry xml:lang="ja"><title type="html">Aska</title><link href="http://localhost:4000/Aska-ja/" rel="alternate" type="text/html" title="Aska" /><published>2023-01-01T00:00:00+00:00</published><updated>2023-01-01T00:00:00+00:00</updated><id>http://localhost:4000/Aska-ja</id><content type="html" xml:base="http://localhost:4000/Aska-ja/"><![CDATA[<p>自由記述式アンケートを定量的に評価できるSaaSアプリです。</p>
 
 <p>Askaは、SNSのような意見共有プラットフォームです。管理者ユーザーがトピックを立ち上げると、回答者ユーザーたちは互いの意見を参照したり、それらの意見に「いいね」したり、自身の意見を投稿することができます。
 そうして回答者たちから収集された「いいね」した傾向を元に、Askaは機械学習やLLMを用いて整理し、分析結果を出力します。
@@ -48,13 +24,7 @@
   <li>プライミング効果が起きるのを避けるために、自身の回答を投稿してから他人の回答を参照するように設定することができます。</li>
   <li>参照用に画像や動画を埋め込むことができます。選択肢も文章だけでなく、画像や動画をセットすることができ、柔軟な調査が実施できます。</li>
   <li>動的な翻訳を介して、同時に異なる言語の調査を実施できます（現在は当社が実施する受注型調査でのみご利用可能です）。</li>
-</ul>]]></content><author><name>Sal</name></author><category term="アンケート関係" /><summary type="html"><![CDATA[自由記述式アンケートを定量的に評価できるSaaSアプリです。]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/Aska_systems.png" /><media:content medium="image" url="http://localhost:4000/assets/images/Aska_systems.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry xml:lang="en"><title type="html">Survey Design Support &amp;amp; Small-Scale Surveys</title><link href="http://localhost:4000/Consulting-en/" rel="alternate" type="text/html" title="Survey Design Support &amp;amp; Small-Scale Surveys" /><published>2022-01-02T00:00:00+00:00</published><updated>2022-01-02T00:00:00+00:00</updated><id>http://localhost:4000/Consulting-en</id><content type="html" xml:base="http://localhost:4000/Consulting-en/"><![CDATA[<p>For those who wish to conduct surveys that yield deeper insights, we offer support and implementation services for survey projects.</p>
-
-<p>A common concern we hear in questionnaire surveys is not knowing how to phrase questions properly. While we do offer courses that explain this in our online materials, the more one thinks about it, the more one realizes that designing a survey with the “proper questions” can be challenging.</p>
-
-<p>Survey design can be improved with reviews by knowledgeable and experienced individuals (expert reviews). However, for more comprehensive surveys, conducting small-scale experiments (focus groups) beforehand helps refine the process. In these small-scale surveys, a more flexible approach is needed to gain insights for revising the survey design. Our company offers services ranging from expert reviews to conducting focus groups utilizing Aska.</p>
-
-<p>If you’re interested, please feel free to reach out for a consultation through our “Contact Us” section.</p>]]></content><author><name>Sal</name></author><category term="Survey" /><summary type="html"><![CDATA[For those who wish to conduct surveys that yield deeper insights, we offer support and implementation services for survey projects.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/Consulting.png" /><media:content medium="image" url="http://localhost:4000/assets/images/Consulting.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry xml:lang="ja"><title type="html">調査設計サポート・小規模調査</title><link href="http://localhost:4000/Consulting-ja/" rel="alternate" type="text/html" title="調査設計サポート・小規模調査" /><published>2022-01-01T00:00:00+00:00</published><updated>2022-01-01T00:00:00+00:00</updated><id>http://localhost:4000/Consulting-ja</id><content type="html" xml:base="http://localhost:4000/Consulting-ja/"><![CDATA[<p>もっと深い知見が得られる調査がしたいという方へ、調査のサポート・実施を承ります。</p>
+</ul>]]></content><author><name>Sal</name></author><category term="アンケート関係" /><summary type="html"><![CDATA[自由記述式アンケートを定量的に評価できるSaaSアプリです。]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/Aska_systems.png" /><media:content medium="image" url="http://localhost:4000/assets/images/Aska_systems.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry xml:lang="ja"><title type="html">調査設計サポート・小規模調査</title><link href="http://localhost:4000/Consulting-ja/" rel="alternate" type="text/html" title="調査設計サポート・小規模調査" /><published>2022-01-01T00:00:00+00:00</published><updated>2022-01-01T00:00:00+00:00</updated><id>http://localhost:4000/Consulting-ja</id><content type="html" xml:base="http://localhost:4000/Consulting-ja/"><![CDATA[<p>もっと深い知見が得られる調査がしたいという方へ、調査のサポート・実施を承ります。</p>
 
 <p>アンケート調査で「質問文の聞き方が分からない」というご相談をよく伺います。
 当社のオンライン教材でも解説しているコースがございますが、よく考えれば考えるほど、調査において「よい聞き方」などの調査設計は難しいことを実感されるかと思います。</p>
@@ -63,14 +33,7 @@
 このような小規模調査では、調査設計を見直すための知見を得るため、本調査よりも自由度の高い調査が必要となります。
 当社では、エキスパート・レビューからAskaを活用したフォーカスグループの実施まで承っております。</p>
 
-<p>ご興味のある方は、ぜひお気軽に「お問合せ」からご相談ください。</p>]]></content><author><name>Sal</name></author><category term="アンケート関係" /><summary type="html"><![CDATA[もっと深い知見が得られる調査がしたいという方へ、調査のサポート・実施を承ります。]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/Consulting.png" /><media:content medium="image" url="http://localhost:4000/assets/images/Consulting.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry xml:lang="en"><title type="html">Data Cleaning</title><link href="http://localhost:4000/Data-Cleaning-en/" rel="alternate" type="text/html" title="Data Cleaning" /><published>2021-01-02T00:00:00+00:00</published><updated>2021-01-02T00:00:00+00:00</updated><id>http://localhost:4000/Data-Cleaning-en</id><content type="html" xml:base="http://localhost:4000/Data-Cleaning-en/"><![CDATA[<p>Are you analyzing your collected data as <strong>raw data</strong>? We offer data cleaning services.</p>
-
-<p>In questionnaire surveys, ‘noise responses’ can occur for various reasons. These can sometimes be detected based on the response time or the relative and absolute consistency of the answers. Our data cleaning service includes the detection and removal of such noise responses.</p>
-
-<p>Even large-scale data, if significantly affected by noise responses, may lead to analysis results that greatly deviate from the actual situation. If you have concerns or dissatisfaction with your analysis results, please feel free to consult with us.</p>
-
-<h3 id="about-the-term">About the Term</h3>
-<p>‘Data Cleaning’ is a term we use uniquely (though it’s not entirely original as others use similar expressions). ‘Data Screening’ might be more common, but in the survey industry, ‘screening’ often refers to the screening of respondents, which can lead to confusion. Therefore, we intentionally use a different term for our service.</p>]]></content><author><name>Sal</name></author><category term="Survey" /><summary type="html"><![CDATA[Are you analyzing your collected data as raw data? We offer data cleaning services.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/Data_cleaning.png" /><media:content medium="image" url="http://localhost:4000/assets/images/Data_cleaning.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry xml:lang="ja"><title type="html">データクリーニング</title><link href="http://localhost:4000/Data-Cleaning-ja/" rel="alternate" type="text/html" title="データクリーニング" /><published>2021-01-01T00:00:00+00:00</published><updated>2021-01-01T00:00:00+00:00</updated><id>http://localhost:4000/Data-Cleaning-ja</id><content type="html" xml:base="http://localhost:4000/Data-Cleaning-ja/"><![CDATA[<p>収集したデータ、生データのまま分析していませんか？ノイズ回答除去等のデータクリーニングを承ります。</p>
+<p>ご興味のある方は、ぜひお気軽に「お問合せ」からご相談ください。</p>]]></content><author><name>Sal</name></author><category term="アンケート関係" /><summary type="html"><![CDATA[もっと深い知見が得られる調査がしたいという方へ、調査のサポート・実施を承ります。]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/Consulting.png" /><media:content medium="image" url="http://localhost:4000/assets/images/Consulting.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry xml:lang="ja"><title type="html">データクリーニング</title><link href="http://localhost:4000/Data-Cleaning-ja/" rel="alternate" type="text/html" title="データクリーニング" /><published>2021-01-01T00:00:00+00:00</published><updated>2021-01-01T00:00:00+00:00</updated><id>http://localhost:4000/Data-Cleaning-ja</id><content type="html" xml:base="http://localhost:4000/Data-Cleaning-ja/"><![CDATA[<p>収集したデータ、生データのまま分析していませんか？ノイズ回答除去等のデータクリーニングを承ります。</p>
 
 <p>アンケート調査では、様々な原因により「ノイズ回答」が生じます。
 それらは、回答時間や回答の相対的・絶対的な整合性から検出できる場合があります。
@@ -85,7 +48,7 @@
 <p><iframe style="width:100%;" height="315" src="https://www.youtube.com/embed/UA8XGq-TVEY?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen=""></iframe></p>
 
 <h4 id="用語について">用語について</h4>
-<p>「データクリーニング」は当社独自の呼び方です（独自と言っても、似たような表現をされている方もいらっしゃるので、オリジナルの名称というわけではありません）。データスクリーニングのほうが一般的かもしれませんが、アンケート調査の業界で「スクリーニング」は、回答者のスクリーニングを指すことが多く、誤解を招く可能性があるため、サービス名としてはあえて異なる名称を用いています。</p>]]></content><author><name>Sal</name></author><category term="アンケート関係" /><summary type="html"><![CDATA[収集したデータ、生データのまま分析していませんか？ノイズ回答除去等のデータクリーニングを承ります。]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/Data_cleaning.png" /><media:content medium="image" url="http://localhost:4000/assets/images/Data_cleaning.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry xml:lang="ja"><title type="html">オンライン教材</title><link href="http://localhost:4000/Coursewares/" rel="alternate" type="text/html" title="オンライン教材" /><published>2020-01-01T00:00:00+00:00</published><updated>2020-01-01T00:00:00+00:00</updated><id>http://localhost:4000/Coursewares</id><content type="html" xml:base="http://localhost:4000/Coursewares/"><![CDATA[<p>調査設計や調査データの処理に関する様々な教材をご用意しております。</p>
+<p>「データクリーニング」は当社独自の呼び方です（独自と言っても、似たような表現をされている方もいらっしゃるので、オリジナルの名称というわけではありません）。データスクリーニングのほうが一般的かもしれませんが、アンケート調査の業界で「スクリーニング」は、回答者のスクリーニングを指すことが多く、誤解を招く可能性があるため、サービス名としてはあえて異なる名称を用いています。</p>]]></content><author><name>Sal</name></author><category term="アンケート関係" /><summary type="html"><![CDATA[収集したデータ、生データのまま分析していませんか？ノイズ回答除去等のデータクリーニングを承ります。]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/Data_cleaning.png" /><media:content medium="image" url="http://localhost:4000/assets/images/Data_cleaning.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry xml:lang="ja"><title type="html">オンライン教材</title><link href="http://localhost:4000/Coursewares-ja/" rel="alternate" type="text/html" title="オンライン教材" /><published>2020-01-01T00:00:00+00:00</published><updated>2020-01-01T00:00:00+00:00</updated><id>http://localhost:4000/Coursewares-ja</id><content type="html" xml:base="http://localhost:4000/Coursewares-ja/"><![CDATA[<p>調査設計や調査データの処理に関する様々な教材をご用意しております。</p>
 
 <h4 id="速習survey-methodology一般公開">【速習】Survey Methodology（一般公開）</h4>
 <p>アンケート調査法の古典的教科書 “Survey Methodology”（Groves et al.著, 2009）の要点を、各章数分の動画でまとめたオンラインコースです。この本は、「アンケート分析」ではなく、「アンケート設計」を体系的に学ぶことにフォーカスした本です。一つ一つを丁寧に学習するのではなく、全体像をざっくり把握できることをゴールとしています。</p>
@@ -112,26 +75,7 @@
   <li>「類語・対義語の整合性」で矛盾を見抜く！</li>
 </ol>
 
-<p><img src="/assets/images/VideoList_DataScreening.png" alt="VideoList_DataScreening" /></p>]]></content><author><name>Sal</name></author><category term="アンケート関係" /><summary type="html"><![CDATA[調査設計や調査データの処理に関する様々な教材をご用意しております。]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/SurveyMethodology.png" /><media:content medium="image" url="http://localhost:4000/assets/images/SurveyMethodology.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry xml:lang="en"><title type="html">Data Visualization</title><link href="http://localhost:4000/Data-Visualization-en/" rel="alternate" type="text/html" title="Data Visualization" /><published>2019-01-02T00:00:00+00:00</published><updated>2019-01-02T00:00:00+00:00</updated><id>http://localhost:4000/Data-Visualization-en</id><content type="html" xml:base="http://localhost:4000/Data-Visualization-en/"><![CDATA[<p>We offer a service to beautifully visualize your survey data.</p>
-
-<p>From the data you provide, we create various visualizations, including the “Bouquet Diagram.”</p>
-
-<h2 id="bouquet-diagram">Bouquet Diagram</h2>
-<h3 id="brief-description">Brief Description</h3>
-<p>This is a chart that shows pie charts at the end of branches based on attributes, like “the percentage of men in their 30s who celebrate Christmas” or “the percentage of women among people in their 40s who don’t celebrate Christmas.” It allows you to overview the characteristics of results under various conditions.</p>
-
-<h3 id="detailed-description">Detailed Description</h3>
-<p>This is a diagram that represents multi-dimensional contingency tables with dendrograms and pie charts. Unlike normal dendrograms that inherently have a hierarchical structure, here, since the attributes themselves don’t have a hierarchy, by default, we draw all combinations of branches. The different branches are not independent; combinations with the same conditions will have the same distribution (reflecting the symmetry of the hypergeometric distribution). Behind the scenes, we calculate p-values using exact tests or chi-squared tests, allowing us to “prune” the branches of the dendrogram (note that this involves issues with multiple testing, so care must be taken when assessing statistical significance). If you have specific filtering conditions you want to focus on, we can “prune” accordingly.</p>
-
-<h2 id="orders">Orders</h2>
-<p>If you want to beautifully and clearly visualize your survey results, please place an order. Depending on your specified colors and filtering conditions, we will deliver one SVG file (vector data) and one PNG file (image data) each.
-(Note: The versions posted on Instagram have additional background decorations, but we deliver only the Bouquet Diagram itself.)</p>
-
-<script async="" src="https://js.stripe.com/v3/buy-button.js">
-</script>
-
-<stripe-buy-button buy-button-id="buy_btn_1OS9uRDo8uVOKmA4E7dmgnim" publishable-key="pk_live_51NqUGqDo8uVOKmA4DtdZ9oO9YwBtkt1dZQ0Qc1DQtjypo6Z2wVXXU9ftcghkFhA7dccnyfIJZ7Jz91a1t0StNCsF00gm5qcv37">
-</stripe-buy-button>]]></content><author><name>bouquet_diagram</name></author><category term="Survey" /><summary type="html"><![CDATA[We offer a service to beautifully visualize your survey data.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/Hanataba_diagram_en.png" /><media:content medium="image" url="http://localhost:4000/assets/images/Hanataba_diagram_en.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry xml:lang="ja"><title type="html">データの可視化</title><link href="http://localhost:4000/Data-Visualization-ja/" rel="alternate" type="text/html" title="データの可視化" /><published>2019-01-01T00:00:00+00:00</published><updated>2019-01-01T00:00:00+00:00</updated><id>http://localhost:4000/Data-Visualization-ja</id><content type="html" xml:base="http://localhost:4000/Data-Visualization-ja/"><![CDATA[<p>収集したアンケート調査データを綺麗に可視化するサービスです。</p>
+<p><img src="/assets/images/VideoList_DataScreening.png" alt="VideoList_DataScreening" /></p>]]></content><author><name>Sal</name></author><category term="アンケート関係" /><summary type="html"><![CDATA[調査設計や調査データの処理に関する様々な教材をご用意しております。]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/SurveyMethodology.png" /><media:content medium="image" url="http://localhost:4000/assets/images/SurveyMethodology.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry xml:lang="ja"><title type="html">データの可視化</title><link href="http://localhost:4000/Data-Visualization-ja/" rel="alternate" type="text/html" title="データの可視化" /><published>2019-01-01T00:00:00+00:00</published><updated>2019-01-01T00:00:00+00:00</updated><id>http://localhost:4000/Data-Visualization-ja</id><content type="html" xml:base="http://localhost:4000/Data-Visualization-ja/"><![CDATA[<p>収集したアンケート調査データを綺麗に可視化するサービスです。</p>
 
 <p>提供いただいたデータから、「花束ダイアグラム」をはじめとして、様々な可視化を提供いたします。</p>
 
@@ -152,28 +96,28 @@
 </script>
 
 <stripe-buy-button buy-button-id="buy_btn_1OS9uRDo8uVOKmA4E7dmgnim" publishable-key="pk_live_51NqUGqDo8uVOKmA4DtdZ9oO9YwBtkt1dZQ0Qc1DQtjypo6Z2wVXXU9ftcghkFhA7dccnyfIJZ7Jz91a1t0StNCsF00gm5qcv37">
-</stripe-buy-button>]]></content><author><name>bouquet_diagram</name></author><category term="アンケート関係" /><summary type="html"><![CDATA[収集したアンケート調査データを綺麗に可視化するサービスです。]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/Hanataba_diagram.png" /><media:content medium="image" url="http://localhost:4000/assets/images/Hanataba_diagram.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry xml:lang="en"><title type="html">AI Videos from Documents</title><link href="http://localhost:4000/Aska-Studio-en/" rel="alternate" type="text/html" title="AI Videos from Documents" /><published>2018-01-02T00:00:00+00:00</published><updated>2018-01-02T00:00:00+00:00</updated><id>http://localhost:4000/Aska-Studio-en</id><content type="html" xml:base="http://localhost:4000/Aska-Studio-en/"><![CDATA[<p>We create AI-explanatory videos from PDF documents or online materials.</p>
+</stripe-buy-button>]]></content><author><name>bouquet_diagram</name></author><category term="アンケート関係" /><summary type="html"><![CDATA[収集したアンケート調査データを綺麗に可視化するサービスです。]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/Hanataba_diagram.png" /><media:content medium="image" url="http://localhost:4000/assets/images/Hanataba_diagram.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry xml:lang="ja"><title type="html">資料から動画を制作</title><link href="http://localhost:4000/Aska-Studio-ja/" rel="alternate" type="text/html" title="資料から動画を制作" /><published>2018-01-01T00:00:00+00:00</published><updated>2018-01-01T00:00:00+00:00</updated><id>http://localhost:4000/Aska-Studio-ja</id><content type="html" xml:base="http://localhost:4000/Aska-Studio-ja/"><![CDATA[<p>PDF資料もしくはウェブ上の資料からAI解説動画を作成します。</p>
 
-<p>We produce videos using PDF documents, presentation slides, script manuscripts, and other materials, leveraging generative AI technology. 
-<a href="#">It is possible to prepare explanatory videos in various languages at a reasonable price.</a></p>
+<p>PDF資料や発表スライド、セリフ原稿等の資料を元に、生成AI等を活用しながら動画を作成いたします。
+<a href="#">様々な言語の解説動画をリーズナブルな価格でご用意することが可能です。</a></p>
 
-<p>The produced videos can undergo a quality check through a pre-release review using Aska. 
-The plan includes making final adjustments based on the review results.</p>
+<p>制作した動画は、Askaを用いた公開前レビューを行うことでクオリティチェックが可能です。
+レビュー結果を反映した最終調整もプランに含まれております。</p>
 
 <ul>
-  <li>The maximum length of the video is 15 minutes.</li>
-  <li>When generating videos from documents, we use generative AIs like GPT. Please be aware of this and place your order accordingly.</li>
+  <li>動画の長さは最長15分です。</li>
+  <li>資料から動画を生成する場合は、GPT等の生成AIを利用します。予めご了承の上、ご発注ください。</li>
 </ul>
 
-<h3 id="orders">Orders</h3>
+<h4 id="ご注文">ご注文</h4>
 <ul>
-  <li>Please purchase through the order link below.</li>
-  <li>After ordering via the purchase link, you will send the source materials through Google Forms.</li>
-  <li>The video will be produced within two weeks.</li>
+  <li>以下の注文リンクからご購入ください。</li>
+  <li>購入リンクからご注文いただいた後、Googleフォームから元となる資料を送信頂く形式です。</li>
+  <li>2週間以内を目処に動画を制作いたします。</li>
 </ul>
 
 <script async="" src="https://js.stripe.com/v3/buy-button.js">
 </script>
 
 <stripe-buy-button buy-button-id="buy_btn_1OS9xiDo8uVOKmA4HpUD2YHZ" publishable-key="pk_live_51NqUGqDo8uVOKmA4DtdZ9oO9YwBtkt1dZQ0Qc1DQtjypo6Z2wVXXU9ftcghkFhA7dccnyfIJZ7Jz91a1t0StNCsF00gm5qcv37">
-</stripe-buy-button>]]></content><author><name>aska_studio</name></author><category term="Promotion" /><summary type="html"><![CDATA[We create AI-explanatory videos from PDF documents or online materials.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/Aska_Studio_en.png" /><media:content medium="image" url="http://localhost:4000/assets/images/Aska_Studio_en.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+</stripe-buy-button>]]></content><author><name>aska_studio</name></author><category term="プロモーション" /><summary type="html"><![CDATA[PDF資料もしくはウェブ上の資料からAI解説動画を作成します。]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/Aska_Studio.png" /><media:content medium="image" url="http://localhost:4000/assets/images/Aska_Studio.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
