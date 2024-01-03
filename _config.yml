@@ -1,7 +1,7 @@
 title: "Aska Intelligence"
 email: contact@aska.systems
 timezone: UTC
-baseurl: ""
+baseurl: "/ja"
 permalink: "/:title/"
 logo: 'assets/images/Aska_icon_circle.png'
 favicon: 'assets/images/favicon.ico'
