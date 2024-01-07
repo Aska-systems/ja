@@ -2,7 +2,7 @@
 layout: post
 title:  "データクリーニング"
 categories: アンケート関係
-image: assets/images/Data_cleaning.png
+image: assets/images/Data_cleaning.jpg
 lang: 'ja'
 ---
 収集したデータ、生データのまま分析していませんか？ノイズ回答除去等のデータクリーニングを承ります。

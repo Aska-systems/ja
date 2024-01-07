@@ -2,7 +2,7 @@
 layout: post
 title:  "オンライン教材"
 categories: アンケート関係
-image: assets/images/SurveyMethodology.png
+image: assets/images/SurveyMethodology.jpg
 website: https://www.youtube.com/@Aska-Intelligence
 lang: 'ja'
 ---
@@ -15,7 +15,7 @@ lang: 'ja'
 > 
 > 和訳本：大隅 昇　監訳『調査法ハンドブック』 朝倉書店（2011）
 
-![VideoList_SurveyMethodology]({{ site.baseurl }}/assets/images/VideoList_SurveyMethodology.png)
+![VideoList_SurveyMethodology]({{ site.baseurl }}/assets/images/VideoList_SurveyMethodology.jpg)
 
 #### 【トピック解説】データスクリーニング（限定公開）
 通常の（選択形式の）アンケート調査における『データスクリーニング』のテクニックを解説したオンライン教材動画です。調査法についての研究論文をもとに、トピックごとに10分以内程度にまとめています。
@@ -29,4 +29,4 @@ lang: 'ja'
 7. 「偶奇整合性」という古典技
 8. 「類語・対義語の整合性」で矛盾を見抜く！
 
-![VideoList_DataScreening]({{ site.baseurl }}/assets/images/VideoList_DataScreening.png)
+![VideoList_DataScreening]({{ site.baseurl }}/assets/images/VideoList_DataScreening.jpg)

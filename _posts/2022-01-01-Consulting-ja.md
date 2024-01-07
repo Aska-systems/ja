@@ -2,7 +2,7 @@
 layout: post
 title:  "調査設計サポート・小規模調査"
 categories: アンケート関係
-image: assets/images/Consulting.png
+image: assets/images/Consulting.jpg
 lang: 'ja'
 ---
 もっと深い知見が得られる調査がしたいという方へ、調査のサポート・実施を承ります。

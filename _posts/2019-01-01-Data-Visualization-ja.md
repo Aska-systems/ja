@@ -3,7 +3,7 @@ layout: post
 title:  "データの可視化"
 author: bouquet_diagram
 categories: アンケート関係
-image: assets/images/Hanataba_diagram.png
+image: assets/images/Hanataba_diagram.jpg
 website: https://www.instagram.com/hanataba_diagram/
 lang: 'ja'
 ---
