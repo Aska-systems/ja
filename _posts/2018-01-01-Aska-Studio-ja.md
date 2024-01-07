@@ -17,7 +17,7 @@ PDF資料や発表スライド、セリフ原稿等の資料を元に、生成AI
 - 動画の長さは最長15分です。
 - 資料から動画を生成する場合は、GPT等の生成AIを利用します。予めご了承の上、ご発注ください。
 
-![Aska_Studio_Procesure_ja]({{ site.baseurl }}/assets/images/Aska_Studio_Procedure.png)
+![Aska_Studio_Procesure_ja]({{ site.baseurl }}/assets/images/Aska_Studio_procedure.png)
 
 #### サンプル
 インスタグラムにカタログを掲載しております。ぜひご参照ください。
