@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en_us"><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="http://localhost:4000/ja/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/ja/" rel="alternate" type="text/html" hreflang="en_us" /><updated>2024-01-07T07:43:55+00:00</updated><id>http://localhost:4000/ja/feed.xml</id><title type="html">Aska Intelligence</title><author><name>Sal</name></author><entry xml:lang="ja"><title type="html">Aska</title><link href="http://localhost:4000/ja/Aska-ja/" rel="alternate" type="text/html" title="Aska" /><published>2023-01-01T00:00:00+00:00</published><updated>2023-01-01T00:00:00+00:00</updated><id>http://localhost:4000/ja/Aska-ja</id><content type="html" xml:base="http://localhost:4000/ja/Aska-ja/"><![CDATA[<p>自由記述式アンケートを定量的に評価できるSaaSアプリです。</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en_us"><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="http://localhost:4000/ja/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/ja/" rel="alternate" type="text/html" hreflang="en_us" /><updated>2024-01-10T09:44:58+00:00</updated><id>http://localhost:4000/ja/feed.xml</id><title type="html">Aska Intelligence</title><author><name>Sal</name></author><entry xml:lang="ja"><title type="html">Aska</title><link href="http://localhost:4000/ja/Aska-ja/" rel="alternate" type="text/html" title="Aska" /><published>2023-01-01T00:00:00+00:00</published><updated>2023-01-01T00:00:00+00:00</updated><id>http://localhost:4000/ja/Aska-ja</id><content type="html" xml:base="http://localhost:4000/ja/Aska-ja/"><![CDATA[<p>自由記述式アンケートを定量的に評価できるSaaSアプリです。</p>
 
 <p>Askaは、SNSのような意見共有プラットフォームです。管理者ユーザーがトピックを立ち上げると、回答者ユーザーたちは互いの意見を参照したり、それらの意見に「いいね」したり、自身の意見を投稿することができます。
 そうして回答者たちから収集された「いいね」した傾向を元に、Askaは機械学習やLLMを用いて整理し、分析結果を出力します。
@@ -81,11 +81,16 @@
 
 <h2 id="花束ダイアグラム">花束ダイアグラム</h2>
 <h3 id="簡単な説明">簡単な説明</h3>
-<p>「30代の男性のうちで、クリスマスを祝う人の割合」とか、「クリスマスを祝わない40代の人のうちで、女性の割合」のように、属性で分岐させた先に円グラフ（pie chart）を表示する図です。いろんな条件のもとで、結果の特徴を見渡すことができます。</p>
+<p>「30代の男性のうちで、クリスマスを祝う人の割合」や「クリスマスを祝わない40代の人のうちで、女性の割合」のように、属性で分岐させた先に円グラフ（pie chart）を表示する図です。いろんな条件のもとで、結果の特徴を見渡すことができます。</p>
 
 <h3 id="詳しい説明">詳しい説明</h3>
 <p>多次元分割表を、デンドログラムと円グラフで表現した図です。通常のデンドログラムは元々階層構造がありますが、ここではそれぞれの属性自体には階層構造がないので、デフォルトではすべての分岐の組み合わせを描画します。
 異なる枝たちはすべて独立ではなく、条件付けの組合せが同じものは同じ分布になります（超幾何分布の対称性）。裏ではp値を正確検定orカイ2乗検定で算出しているので、それで分岐の枝を“剪定“することもできます（多重検定の問題を孕んでいるので、統計的有意性の評価は注意が必要です）。具体的に注目したい絞り込み条件があれば、それに応じて“剪定“もできます。</p>
+
+<h2 id="サンプル">サンプル</h2>
+<p>インスタグラムにカタログを掲載しております。ぜひご参照ください。</p>
+
+<p><a href="https://www.instagram.com/hanataba_diagram/">https://www.instagram.com/hanataba_diagram/</a></p>
 
 <h2 id="ご注文">ご注文</h2>
 <p>企業の調査・卒業研究・修士論文で実施したアンケートの集計結果を綺麗に分かりやすくビジュアライズしたいという方は、ご注文ください。
@@ -96,7 +101,10 @@
 </script>
 
 <stripe-buy-button buy-button-id="buy_btn_1OS9uRDo8uVOKmA4E7dmgnim" publishable-key="pk_live_51NqUGqDo8uVOKmA4DtdZ9oO9YwBtkt1dZQ0Qc1DQtjypo6Z2wVXXU9ftcghkFhA7dccnyfIJZ7Jz91a1t0StNCsF00gm5qcv37">
-</stripe-buy-button>]]></content><author><name>bouquet_diagram</name></author><category term="アンケート関係" /><summary type="html"><![CDATA[収集したアンケート調査データを綺麗に可視化するサービスです。]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/ja/assets/images/Hanataba_diagram.jpg" /><media:content medium="image" url="http://localhost:4000/ja/assets/images/Hanataba_diagram.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry xml:lang="ja"><title type="html">資料から動画を制作</title><link href="http://localhost:4000/ja/Aska-Studio-ja/" rel="alternate" type="text/html" title="資料から動画を制作" /><published>2018-01-01T00:00:00+00:00</published><updated>2018-01-01T00:00:00+00:00</updated><id>http://localhost:4000/ja/Aska-Studio-ja</id><content type="html" xml:base="http://localhost:4000/ja/Aska-Studio-ja/"><![CDATA[<p>PDF資料もしくはウェブ上の資料からAI解説動画を作成します。</p>
+</stripe-buy-button>
+
+<h2 id="お問合せご相談">お問合せ・ご相談</h2>
+<p>花束ダイアグラムに関するお問合せ・ご相談は、<a href="/ja/contact">お問合せフォーム</a>より承っております。</p>]]></content><author><name>bouquet_diagram</name></author><category term="アンケート関係" /><summary type="html"><![CDATA[収集したアンケート調査データを綺麗に可視化するサービスです。]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/ja/assets/images/Hanataba_diagram.jpg" /><media:content medium="image" url="http://localhost:4000/ja/assets/images/Hanataba_diagram.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry xml:lang="ja"><title type="html">資料から動画を制作</title><link href="http://localhost:4000/ja/Aska-Studio-ja/" rel="alternate" type="text/html" title="資料から動画を制作" /><published>2018-01-01T00:00:00+00:00</published><updated>2018-01-01T00:00:00+00:00</updated><id>http://localhost:4000/ja/Aska-Studio-ja</id><content type="html" xml:base="http://localhost:4000/ja/Aska-Studio-ja/"><![CDATA[<p>PDF資料もしくはウェブ上の資料からAI解説動画を作成します。</p>
 
 <p>PDF資料や発表スライド、セリフ原稿等の資料を元に、生成AI等を活用しながら動画を作成いたします。
 <a href="#">様々な言語の解説動画をリーズナブルな価格でご用意することが可能です。</a></p>
@@ -109,7 +117,7 @@
   <li>資料から動画を生成する場合は、GPT等の生成AIを利用します。予めご了承の上、ご発注ください。</li>
 </ul>
 
-<p><img src="/ja/assets/images/Aska_Studio_Procedure.png" alt="Aska_Studio_Procesure_ja" /></p>
+<p><img src="/ja/assets/images/Aska_Studio_procedure.png" alt="Aska_Studio_Procesure_ja" /></p>
 
 <h4 id="サンプル">サンプル</h4>
 <p>インスタグラムにカタログを掲載しております。ぜひご参照ください。</p>
