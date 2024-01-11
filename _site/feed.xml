@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en_us"><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="http://localhost:4000/ja/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/ja/" rel="alternate" type="text/html" hreflang="en_us" /><updated>2024-01-10T09:44:58+00:00</updated><id>http://localhost:4000/ja/feed.xml</id><title type="html">Aska Intelligence</title><author><name>Sal</name></author><entry xml:lang="ja"><title type="html">Aska</title><link href="http://localhost:4000/ja/Aska-ja/" rel="alternate" type="text/html" title="Aska" /><published>2023-01-01T00:00:00+00:00</published><updated>2023-01-01T00:00:00+00:00</updated><id>http://localhost:4000/ja/Aska-ja</id><content type="html" xml:base="http://localhost:4000/ja/Aska-ja/"><![CDATA[<p>自由記述式アンケートを定量的に評価できるSaaSアプリです。</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en_us"><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="http://localhost:4000/ja/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/ja/" rel="alternate" type="text/html" hreflang="en_us" /><updated>2024-01-11T12:36:20+00:00</updated><id>http://localhost:4000/ja/feed.xml</id><title type="html">Aska Intelligence</title><author><name>Sal</name></author><entry xml:lang="ja"><title type="html">Aska</title><link href="http://localhost:4000/ja/Aska-ja/" rel="alternate" type="text/html" title="Aska" /><published>2023-01-01T00:00:00+00:00</published><updated>2023-01-01T00:00:00+00:00</updated><id>http://localhost:4000/ja/Aska-ja</id><content type="html" xml:base="http://localhost:4000/ja/Aska-ja/"><![CDATA[<p>自由記述式アンケートを定量的に評価できるSaaSアプリです。</p>
 
 <p>Askaは、SNSのような意見共有プラットフォームです。管理者ユーザーがトピックを立ち上げると、回答者ユーザーたちは互いの意見を参照したり、それらの意見に「いいね」したり、自身の意見を投稿することができます。
 そうして回答者たちから収集された「いいね」した傾向を元に、Askaは機械学習やLLMを用いて整理し、分析結果を出力します。
@@ -102,6 +102,11 @@
 
 <stripe-buy-button buy-button-id="buy_btn_1OS9uRDo8uVOKmA4E7dmgnim" publishable-key="pk_live_51NqUGqDo8uVOKmA4DtdZ9oO9YwBtkt1dZQ0Qc1DQtjypo6Z2wVXXU9ftcghkFhA7dccnyfIJZ7Jz91a1t0StNCsF00gm5qcv37">
 </stripe-buy-button>
+
+<h2 id="割引クーポン">割引クーポン</h2>
+<p>Askaで収集したデータについては、<strong>10%の割引</strong>が適用されます。
+ご購入前に<a href="/ja/contact">お問合せ</a>いただき、割引クーポンを受け取ってください。
+（＊決済後の割引は受け付けておりませんので、ご注意ください）</p>
 
 <h2 id="お問合せご相談">お問合せ・ご相談</h2>
 <p>花束ダイアグラムに関するお問合せ・ご相談は、<a href="/ja/contact">お問合せフォーム</a>より承っております。</p>]]></content><author><name>bouquet_diagram</name></author><category term="アンケート関係" /><summary type="html"><![CDATA[収集したアンケート調査データを綺麗に可視化するサービスです。]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/ja/assets/images/Hanataba_diagram.jpg" /><media:content medium="image" url="http://localhost:4000/ja/assets/images/Hanataba_diagram.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry xml:lang="ja"><title type="html">資料から動画を制作</title><link href="http://localhost:4000/ja/Aska-Studio-ja/" rel="alternate" type="text/html" title="資料から動画を制作" /><published>2018-01-01T00:00:00+00:00</published><updated>2018-01-01T00:00:00+00:00</updated><id>http://localhost:4000/ja/Aska-Studio-ja</id><content type="html" xml:base="http://localhost:4000/ja/Aska-Studio-ja/"><![CDATA[<p>PDF資料もしくはウェブ上の資料からAI解説動画を作成します。</p>
