@@ -44,6 +44,31 @@
         background: url('/ja/assets/images/general_survey_bg.jpg') no-repeat center center;
         background-size: cover;
     }
+
+    .embed-responsive-9by16 {
+        position: relative;
+        display: block;
+        width: 100%;
+        padding: 0;
+        overflow: hidden;
+    }
+
+    .embed-responsive-9by16::before {
+        display: block;
+        content: "";
+        padding-top: 177.77%;  /* 9:16 アスペクト比 */
+    }
+
+    .embed-responsive-9by16 iframe {
+        position: absolute;
+        top: 0;
+        left: 0;
+        bottom: 0;
+        right: 0;
+        width: 100%;
+        height: 100%;
+        border: 0;
+    }
 </style>
 </head>   
     
@@ -246,12 +271,10 @@
             <div class="sidebar sticky-top">        
     <div class="sidebar-section">
         <h5><span>About us</span></h5>
-        <p>
-        <div class="col-12 text-center">
-            <iframe width="260" height="460" src="https://www.youtube.com/embed/2EOBjja06tU?autoplay=1" title="あなたの調査をもっと深く、わかりやすく。" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        <div class="embed-responsive embed-responsive-9by16">
+            <iframe width="260" height="460" src="https://www.youtube.com/embed/2EOBjja06tU?loop=1?autoplay=1&mute=1" title="あなたの調査をもっと深く、わかりやすく。" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
         </div>
-        </p>
-        <p>
+        <p class="mt-4">
             独自の意見共有プラットフォーム「Aska」を主に活用し、アンケート調査に関連する様々なサービスを提供しています。その他、自社でAskaを活用した周辺サービスを展開しています。
         </p>
         <div class="col-md-12 text-center">
