@@ -22,20 +22,12 @@ PDF資料や発表スライド、セリフ原稿等の資料を元に、生成AI
 #### サンプル
 インスタグラムにカタログを掲載しております。ぜひご参照ください。
 
-[https://www.instagram.com/aska__studio/](https://www.instagram.com/aska__studio/)
+<a class="btn btn-primary text-white" href="https://www.instagram.com/aska__studio/">カタログ (@aska__studio)</a>
 
+#### ご注文・ご相談
 
-#### ご注文
-- 以下の注文リンクからご購入ください。
-- 購入リンクからご注文いただいた後、Googleフォームから元となる資料を送信頂く形式です。
+<a class="btn btn-primary text-white" href="https://docs.google.com/forms/d/e/1FAIpQLSeB_X5ie151T50PbzQvfVAwi8B1MJhOi1PE2UibfGfXXp6BYw/viewform?usp=sf_link">ご注文・ご相談用Googleフォーム</a>
+
+- ご注文確定後、支払いリンクをお送りいたします。
+- まずはご相談、という場合でも上記フォームから受け付けております。
 - 2週間以内を目処に動画を制作いたします。
-
-<script async
-  src="https://js.stripe.com/v3/buy-button.js">
-</script>
-
-<stripe-buy-button
-  buy-button-id="buy_btn_1OS9xiDo8uVOKmA4HpUD2YHZ"
-  publishable-key="pk_live_51NqUGqDo8uVOKmA4DtdZ9oO9YwBtkt1dZQ0Qc1DQtjypo6Z2wVXXU9ftcghkFhA7dccnyfIJZ7Jz91a1t0StNCsF00gm5qcv37"
->
-</stripe-buy-button>

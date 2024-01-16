@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en_us"><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="http://localhost:4000/ja/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/ja/" rel="alternate" type="text/html" hreflang="en_us" /><updated>2024-01-13T08:43:21+00:00</updated><id>http://localhost:4000/ja/feed.xml</id><title type="html">Aska Intelligence</title><author><name>Sal</name></author><entry xml:lang="ja"><title type="html">Aska</title><link href="http://localhost:4000/ja/Aska-ja/" rel="alternate" type="text/html" title="Aska" /><published>2023-01-01T00:00:00+00:00</published><updated>2023-01-01T00:00:00+00:00</updated><id>http://localhost:4000/ja/Aska-ja</id><content type="html" xml:base="http://localhost:4000/ja/Aska-ja/"><![CDATA[<p>自由記述式アンケートを定量的に評価できるSaaSアプリです。</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en_us"><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="http://localhost:4000/ja/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/ja/" rel="alternate" type="text/html" hreflang="en_us" /><updated>2024-01-16T04:01:38+00:00</updated><id>http://localhost:4000/ja/feed.xml</id><title type="html">Aska Intelligence</title><author><name>Sal</name></author><entry xml:lang="ja"><title type="html">Aska</title><link href="http://localhost:4000/ja/Aska-ja/" rel="alternate" type="text/html" title="Aska" /><published>2023-01-01T00:00:00+00:00</published><updated>2023-01-01T00:00:00+00:00</updated><id>http://localhost:4000/ja/Aska-ja</id><content type="html" xml:base="http://localhost:4000/ja/Aska-ja/"><![CDATA[<p>自由記述式アンケートを定量的に評価できるSaaSアプリです。</p>
 
 <p>Askaは、SNSのような意見共有プラットフォームです。管理者ユーザーがトピックを立ち上げると、回答者ユーザーたちは互いの意見を参照したり、それらの意見に「いいね」したり、自身の意見を投稿することができます。
 そうして回答者たちから収集された「いいね」した傾向を元に、Askaは機械学習やLLMを用いて整理し、分析結果を出力します。
@@ -138,17 +138,14 @@
 <h4 id="サンプル">サンプル</h4>
 <p>インスタグラムにカタログを掲載しております。ぜひご参照ください。</p>
 
-<p><a href="https://www.instagram.com/aska__studio/">https://www.instagram.com/aska__studio/</a></p>
+<p><a class="btn btn-primary text-white" href="https://www.instagram.com/aska__studio/">カタログ (@aska__studio)</a></p>
 
-<h4 id="ご注文">ご注文</h4>
+<h4 id="ご注文ご相談">ご注文・ご相談</h4>
+
+<p><a class="btn btn-primary text-white" href="https://docs.google.com/forms/d/e/1FAIpQLSeB_X5ie151T50PbzQvfVAwi8B1MJhOi1PE2UibfGfXXp6BYw/viewform?usp=sf_link">ご注文・ご相談用Googleフォーム</a></p>
+
 <ul>
-  <li>以下の注文リンクからご購入ください。</li>
-  <li>購入リンクからご注文いただいた後、Googleフォームから元となる資料を送信頂く形式です。</li>
+  <li>ご注文確定後、支払いリンクをお送りいたします。</li>
+  <li>まずはご相談、という場合でも上記フォームから受け付けております。</li>
   <li>2週間以内を目処に動画を制作いたします。</li>
-</ul>
-
-<script async="" src="https://js.stripe.com/v3/buy-button.js">
-</script>
-
-<stripe-buy-button buy-button-id="buy_btn_1OS9xiDo8uVOKmA4HpUD2YHZ" publishable-key="pk_live_51NqUGqDo8uVOKmA4DtdZ9oO9YwBtkt1dZQ0Qc1DQtjypo6Z2wVXXU9ftcghkFhA7dccnyfIJZ7Jz91a1t0StNCsF00gm5qcv37">
-</stripe-buy-button>]]></content><author><name>aska_studio</name></author><category term="プロモーション" /><summary type="html"><![CDATA[PDF資料もしくはウェブ上の資料からAI解説動画を作成します。]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/ja/assets/images/Aska_Studio.jpg" /><media:content medium="image" url="http://localhost:4000/ja/assets/images/Aska_Studio.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+</ul>]]></content><author><name>aska_studio</name></author><category term="プロモーション" /><summary type="html"><![CDATA[PDF資料もしくはウェブ上の資料からAI解説動画を作成します。]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/ja/assets/images/Aska_Studio.jpg" /><media:content medium="image" url="http://localhost:4000/ja/assets/images/Aska_Studio.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
