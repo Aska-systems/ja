@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "資料から動画を制作"
+title:  "資料から動画制作"
 author: aska_studio
 categories: プロモーション
 image: assets/images/Aska_Studio.jpg
@@ -23,6 +23,15 @@ PDF資料や発表スライド、セリフ原稿等の資料を元に、生成AI
 インスタグラムにカタログを掲載しております。ぜひご参照ください。
 
 <a class="btn btn-primary text-white" href="https://www.instagram.com/aska__studio/">カタログ (@aska__studio)</a>
+
+#### 価格
+**¥55,000/動画（税込）**
+
+- 資料からの動画生成（スライド画面・セリフ原稿案を含む, mp4ファイル納品）
+- 公開前レビュー（オプション）
+- YouTube掲載（オプション）
+- 納品後１年以内のメンテナンス修正（１回まで）
+
 
 #### ご注文・ご相談
 
