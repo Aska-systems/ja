@@ -16,12 +16,18 @@ PDF資料や発表スライド、セリフ原稿等の資料を元に、生成AI
 
 ![Aska_Studio_Procesure_ja]({{ site.baseurl }}/assets/images/Aska_Studio_procedure.png)
 
-#### サンプル
-インスタグラムにカタログを掲載しております。ぜひご参照ください。
+### インスタグラム
+インスタグラムにアバターのカタログを掲載しております。ぜひご参照ください。
 
-<a class="btn btn-primary text-white" href="https://www.instagram.com/aska__studio/">カタログ (@aska__studio)</a>
+<a class="btn btn-primary text-white" href="https://www.instagram.com/aska__studio/">インスタグラム (@aska__studio)</a>
 
-#### 価格
+### YouTubeチャンネル
+これまでに製作した動画はYouTubeにてご覧になれます。
+
+<a class="btn btn-primary text-white" href="https://www.youtube.com/@aska__studio/videos">YouTube (@aska__studio)</a>
+
+
+### 価格
 【立ち上げキャンペーン価格（予告なく終了します）】
 
 **¥55,000/動画（税込）** ~~¥110,000/動画（税込）~~
@@ -34,7 +40,7 @@ PDF資料や発表スライド、セリフ原稿等の資料を元に、生成AI
 - 納品後１年以内のメンテナンス修正（１回まで）
 
 
-#### ご注文・ご相談
+### ご注文・ご相談
 
 <a class="btn btn-primary text-white" href="https://docs.google.com/forms/d/e/1FAIpQLSeB_X5ie151T50PbzQvfVAwi8B1MJhOi1PE2UibfGfXXp6BYw/viewform?usp=sf_link">ご注文・ご相談用Googleフォーム</a>
 
@@ -43,6 +49,6 @@ PDF資料や発表スライド、セリフ原稿等の資料を元に、生成AI
 - 2週間以内を目処に動画を制作いたします。
 
 
-#### 注意点
+### 注意点
 - 資料から動画を生成する場合は、GPT等の生成AIを利用します。予めご了承の上、ご発注ください。
 - 当サービスでは、動画の生成に[Synthesia](https://www.synthesia.io/)を使用しております。Synthesiaの利用規約に抵触するご利用目的（課金広告に使用する動画等）の動画制作は、お断りさせていただいております。
