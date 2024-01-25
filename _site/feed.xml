@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en_us"><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="http://localhost:4000/ja/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/ja/" rel="alternate" type="text/html" hreflang="en_us" /><updated>2024-01-25T07:38:15+00:00</updated><id>http://localhost:4000/ja/feed.xml</id><title type="html">Aska Intelligence</title><author><name>Sal</name></author><entry xml:lang="ja"><title type="html">Aska</title><link href="http://localhost:4000/ja/Aska-ja/" rel="alternate" type="text/html" title="Aska" /><published>2023-01-01T00:00:00+00:00</published><updated>2023-01-01T00:00:00+00:00</updated><id>http://localhost:4000/ja/Aska-ja</id><content type="html" xml:base="http://localhost:4000/ja/Aska-ja/"><![CDATA[<p>自由記述式アンケートを定量的に評価できるSaaSアプリです。</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en_us"><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="http://localhost:4000/ja/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/ja/" rel="alternate" type="text/html" hreflang="en_us" /><updated>2024-01-25T07:40:27+00:00</updated><id>http://localhost:4000/ja/feed.xml</id><title type="html">Aska Intelligence</title><author><name>Sal</name></author><entry xml:lang="ja"><title type="html">Aska</title><link href="http://localhost:4000/ja/Aska-ja/" rel="alternate" type="text/html" title="Aska" /><published>2023-01-01T00:00:00+00:00</published><updated>2023-01-01T00:00:00+00:00</updated><id>http://localhost:4000/ja/Aska-ja</id><content type="html" xml:base="http://localhost:4000/ja/Aska-ja/"><![CDATA[<p>自由記述式アンケートを定量的に評価できるSaaSアプリです。</p>
 
 <p>Askaは、SNSのような意見共有プラットフォームです。管理者ユーザーがトピックを立ち上げると、回答者ユーザーたちは互いの意見を参照したり、それらの意見に「いいね」したり、自身の意見を投稿することができます。
 そうして回答者たちから収集された「いいね」した傾向を元に、Askaは機械学習やLLMを用いて整理し、分析結果を出力します。
@@ -125,7 +125,7 @@
 <p>PDF資料や発表スライド、セリフ原稿等の資料を元に、生成AI等を活用しながら動画を作成いたします。
 <a href="#">様々な言語の解説動画をリーズナブルな価格でご用意することが可能です。</a></p>
 
-<p>制作した動画は、Askaを用いた公開前レビューを行うことでクオリティチェックが可能です。
+<p>制作した動画は、<a href="https://aska.systems/ja">Aska</a>を用いた公開前レビューを行うことでクオリティチェックが可能です。
 レビュー結果を反映した最終調整もプランに含まれております。</p>
 
 <p><img src="/ja/assets/images/Aska_Studio_procedure.png" alt="Aska_Studio_Procesure_ja" /></p>
