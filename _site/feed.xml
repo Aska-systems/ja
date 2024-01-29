@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en_us"><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="http://localhost:4000/ja/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/ja/" rel="alternate" type="text/html" hreflang="en_us" /><updated>2024-01-26T03:18:48+00:00</updated><id>http://localhost:4000/ja/feed.xml</id><title type="html">Aska Intelligence</title><author><name>Sal</name></author><entry xml:lang="ja"><title type="html">Aska</title><link href="http://localhost:4000/ja/Aska-ja/" rel="alternate" type="text/html" title="Aska" /><published>2023-01-01T00:00:00+00:00</published><updated>2023-01-01T00:00:00+00:00</updated><id>http://localhost:4000/ja/Aska-ja</id><content type="html" xml:base="http://localhost:4000/ja/Aska-ja/"><![CDATA[<p>自由記述式アンケートを定量的に評価できるSaaSアプリです。</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en_us"><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="http://localhost:4000/ja/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/ja/" rel="alternate" type="text/html" hreflang="en_us" /><updated>2024-01-29T02:22:27+00:00</updated><id>http://localhost:4000/ja/feed.xml</id><title type="html">Aska Intelligence</title><author><name>Sal</name></author><entry xml:lang="ja"><title type="html">Aska</title><link href="http://localhost:4000/ja/Aska-ja/" rel="alternate" type="text/html" title="Aska" /><published>2023-01-01T00:00:00+00:00</published><updated>2023-01-01T00:00:00+00:00</updated><id>http://localhost:4000/ja/Aska-ja</id><content type="html" xml:base="http://localhost:4000/ja/Aska-ja/"><![CDATA[<p>自由記述式アンケートを定量的に評価できるSaaSアプリです。</p>
 
 <p>Askaは、SNSのような意見共有プラットフォームです。管理者ユーザーがトピックを立ち上げると、回答者ユーザーたちは互いの意見を参照したり、それらの意見に「いいね」したり、自身の意見を投稿することができます。
 そうして回答者たちから収集された「いいね」した傾向を元に、Askaは機械学習やLLMを用いて整理し、分析結果を出力します。
@@ -139,6 +139,10 @@
 <p>これまでに製作した動画はYouTubeにてご覧になれます。</p>
 
 <p><a class="btn btn-primary text-white" href="https://www.youtube.com/@aska__studio/videos">YouTube (@aska__studio)</a></p>
+
+<h3 id="note">note</h3>
+
+<p><a href="https://note.com/tatsurokawamoto/n/n6c9cb6d71c0d?sub_rt=share_pb">「研究者は今こそ自身の研究成果の動画を作るべきという話」</a></p>
 
 <h3 id="価格">価格</h3>
 <p>【立ち上げキャンペーン価格（予告なく終了します）】</p>

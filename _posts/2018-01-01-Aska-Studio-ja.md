@@ -26,6 +26,10 @@ PDF資料や発表スライド、セリフ原稿等の資料を元に、生成AI
 
 <a class="btn btn-primary text-white" href="https://www.youtube.com/@aska__studio/videos">YouTube (@aska__studio)</a>
 
+### note
+
+[「研究者は今こそ自身の研究成果の動画を作るべきという話」](https://note.com/tatsurokawamoto/n/n6c9cb6d71c0d?sub_rt=share_pb)
+
 
 ### 価格
 【立ち上げキャンペーン価格（予告なく終了します）】
