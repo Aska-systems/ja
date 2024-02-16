@@ -38,6 +38,12 @@ lang: 'ja'
 <a class="btn btn-primary text-white" href="https://www.instagram.com/hanataba_diagram/">カタログ (@hanataba_diagram)</a>
 
 
+## ベクトルデータ販売
+カタログ（インスタグラム）に掲載されている作品の一部を、ベクトルデータ（svg）としてnoteで販売しています。
+
+<a class="btn btn-primary text-white" href="https://note.com/tatsurokawamoto/m/m373123013d96">データ販売 (@note)</a>
+
+
 ## ご注文・ご相談
 こちらのGoogleフォームより、ご注文・ご相談いただけます。
 ご注文確定後、支払いリンクをお送りいたしますので、まずはお気軽にお声がけください。
