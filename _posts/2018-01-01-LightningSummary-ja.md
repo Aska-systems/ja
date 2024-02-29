@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "資料から動画制作"
-author: aska_studio
+author: lightning_summary
 categories: プロモーション
 image: assets/images/Aska_Studio.jpg
 lang: 'ja'
@@ -16,15 +16,13 @@ PDF資料や発表スライド、セリフ原稿等の資料を元に、生成AI
 
 ![Aska_Studio_Procesure_ja]({{ site.baseurl }}/assets/images/Aska_Studio_procedure.png)
 
-### インスタグラム
-インスタグラムにアバターのカタログを掲載しております。ぜひご参照ください。
 
-<a class="btn btn-primary text-white" href="https://www.instagram.com/aska__studio/">インスタグラム (@aska__studio)</a>
-
-### YouTubeチャンネル
+### 発信チャンネル
 これまでに製作した動画はYouTubeにてご覧になれます。
 
-<a class="btn btn-primary text-white" href="https://www.youtube.com/@aska__studio/videos">YouTube (@aska__studio)</a>
+<a class="btn btn-primary text-white" href="https://www.youtube.com/@lightning_summary/videos">YouTube (@lightning_summary)</a>
+
+<a class="btn btn-primary text-white" href="https://twitter.com/LightninSummary">公式 X</a>
 
 ### note
 
@@ -32,9 +30,8 @@ PDF資料や発表スライド、セリフ原稿等の資料を元に、生成AI
 
 
 ### 価格
-【立ち上げキャンペーン価格（予告なく終了します）】
 
-**¥55,000/動画（税込）** ~~¥110,000/動画（税込）~~
+**¥110,000/動画（税込）** 
 
 - 資料からの動画生成（スライド画面・セリフ原稿案を含む）
 - 動画の長さ：15分以内

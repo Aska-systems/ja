@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en_us"><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="http://localhost:4000/ja/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/ja/" rel="alternate" type="text/html" hreflang="en_us" /><updated>2024-01-30T05:24:10+00:00</updated><id>http://localhost:4000/ja/feed.xml</id><title type="html">Aska Intelligence</title><author><name>Sal</name></author><entry xml:lang="ja"><title type="html">Aska</title><link href="http://localhost:4000/ja/Aska-ja/" rel="alternate" type="text/html" title="Aska" /><published>2023-01-01T00:00:00+00:00</published><updated>2023-01-01T00:00:00+00:00</updated><id>http://localhost:4000/ja/Aska-ja</id><content type="html" xml:base="http://localhost:4000/ja/Aska-ja/"><![CDATA[<p>自由記述式アンケートを定量的に評価できるSaaSアプリです。</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en_us"><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="http://localhost:4000/ja/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/ja/" rel="alternate" type="text/html" hreflang="en_us" /><updated>2024-02-29T07:11:38+00:00</updated><id>http://localhost:4000/ja/feed.xml</id><title type="html">Aska Intelligence</title><author><name>Sal</name></author><entry xml:lang="ja"><title type="html">Aska</title><link href="http://localhost:4000/ja/Aska-ja/" rel="alternate" type="text/html" title="Aska" /><published>2023-01-01T00:00:00+00:00</published><updated>2023-01-01T00:00:00+00:00</updated><id>http://localhost:4000/ja/Aska-ja</id><content type="html" xml:base="http://localhost:4000/ja/Aska-ja/"><![CDATA[<p>自由記述式アンケートを定量的に評価できるSaaSアプリです。</p>
 
 <p>Askaは、SNSのような意見共有プラットフォームです。管理者ユーザーがトピックを立ち上げると、回答者ユーザーたちは互いの意見を参照したり、それらの意見に「いいね」したり、自身の意見を投稿することができます。
 そうして回答者たちから収集された「いいね」した傾向を元に、Askaは機械学習やLLMを用いて整理し、分析結果を出力します。
@@ -103,6 +103,11 @@
 
 <p><a class="btn btn-primary text-white" href="https://www.instagram.com/hanataba_diagram/">カタログ (@hanataba_diagram)</a></p>
 
+<h2 id="ベクトルデータ販売">ベクトルデータ販売</h2>
+<p>カタログ（インスタグラム）に掲載されている作品の一部を、ベクトルデータ（svg）としてnoteで販売しています。</p>
+
+<p><a class="btn btn-primary text-white" href="https://note.com/tatsurokawamoto/m/m373123013d96">データ販売 (@note)</a></p>
+
 <h2 id="ご注文ご相談">ご注文・ご相談</h2>
 <p>こちらのGoogleフォームより、ご注文・ご相談いただけます。
 ご注文確定後、支払いリンクをお送りいたしますので、まずはお気軽にお声がけください。</p>
@@ -117,7 +122,7 @@
   <li>オンラインにてご要望をヒアリングさせていただいた上で、SVGファイル（ベクトルデータ）を納品いたします。</li>
   <li>1週間以内を目処に納品いたします。</li>
   <li>インスタグラムに掲載しているものは、背景等の装飾を施しておりますが、納品は花束ダイアグラム本体のみとなります。</li>
-</ul>]]></content><author><name>bouquet_diagram</name></author><category term="アンケート関係" /><summary type="html"><![CDATA[あなたのデータから、もっとリッチな図を作りませんか？]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/ja/assets/images/Hanataba_diagram.jpg" /><media:content medium="image" url="http://localhost:4000/ja/assets/images/Hanataba_diagram.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry xml:lang="ja"><title type="html">資料から動画制作</title><link href="http://localhost:4000/ja/Aska-Studio-ja/" rel="alternate" type="text/html" title="資料から動画制作" /><published>2018-01-01T00:00:00+00:00</published><updated>2018-01-01T00:00:00+00:00</updated><id>http://localhost:4000/ja/Aska-Studio-ja</id><content type="html" xml:base="http://localhost:4000/ja/Aska-Studio-ja/"><![CDATA[<p>PDF資料もしくはウェブ上の資料からAI解説動画を作成します。</p>
+</ul>]]></content><author><name>bouquet_diagram</name></author><category term="アンケート関係" /><summary type="html"><![CDATA[あなたのデータから、もっとリッチな図を作りませんか？]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/ja/assets/images/Hanataba_diagram.jpg" /><media:content medium="image" url="http://localhost:4000/ja/assets/images/Hanataba_diagram.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry xml:lang="ja"><title type="html">資料から動画制作</title><link href="http://localhost:4000/ja/LightningSummary-ja/" rel="alternate" type="text/html" title="資料から動画制作" /><published>2018-01-01T00:00:00+00:00</published><updated>2018-01-01T00:00:00+00:00</updated><id>http://localhost:4000/ja/LightningSummary-ja</id><content type="html" xml:base="http://localhost:4000/ja/LightningSummary-ja/"><![CDATA[<p>PDF資料もしくはウェブ上の資料からAI解説動画を作成します。</p>
 
 <p>PDF資料や発表スライド、セリフ原稿等の資料を元に、生成AI等を活用しながら動画を作成いたします。
 <a href="#">様々な言語の解説動画をリーズナブルな価格でご用意することが可能です。</a></p>
@@ -127,24 +132,20 @@
 
 <p><img src="/ja/assets/images/Aska_Studio_procedure.png" alt="Aska_Studio_Procesure_ja" /></p>
 
-<h3 id="インスタグラム">インスタグラム</h3>
-<p>インスタグラムにアバターのカタログを掲載しております。ぜひご参照ください。</p>
-
-<p><a class="btn btn-primary text-white" href="https://www.instagram.com/aska__studio/">インスタグラム (@aska__studio)</a></p>
-
-<h3 id="youtubeチャンネル">YouTubeチャンネル</h3>
+<h3 id="発信チャンネル">発信チャンネル</h3>
 <p>これまでに製作した動画はYouTubeにてご覧になれます。</p>
 
-<p><a class="btn btn-primary text-white" href="https://www.youtube.com/@aska__studio/videos">YouTube (@aska__studio)</a></p>
+<p><a class="btn btn-primary text-white" href="https://www.youtube.com/@lightning_summary/videos">YouTube (@lightning_summary)</a></p>
+
+<p><a class="btn btn-primary text-white" href="https://twitter.com/LightninSummary">公式 X</a></p>
 
 <h3 id="note">note</h3>
 
 <p><a href="https://note.com/tatsurokawamoto/n/n6c9cb6d71c0d?sub_rt=share_pb">「研究者は今こそ自身の研究成果の動画を作るべきという話」</a></p>
 
 <h3 id="価格">価格</h3>
-<p>【立ち上げキャンペーン価格（予告なく終了します）】</p>
 
-<p><strong>¥55,000/動画（税込）</strong> <del>¥110,000/動画（税込）</del></p>
+<p><strong>¥110,000/動画（税込）</strong></p>
 
 <ul>
   <li>資料からの動画生成（スライド画面・セリフ原稿案を含む）</li>
@@ -169,4 +170,4 @@
 <ul>
   <li>資料から動画を生成する場合は、GPT等の生成AIを利用します。予めご了承の上、ご発注ください。</li>
   <li>当サービスでは、動画の生成に<a href="https://www.synthesia.io/">Synthesia</a>を使用しております。Synthesiaの利用規約に抵触するご利用目的（課金広告に使用する動画等）の動画制作は、お断りさせていただいております。</li>
-</ul>]]></content><author><name>aska_studio</name></author><category term="プロモーション" /><summary type="html"><![CDATA[PDF資料もしくはウェブ上の資料からAI解説動画を作成します。]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/ja/assets/images/Aska_Studio.jpg" /><media:content medium="image" url="http://localhost:4000/ja/assets/images/Aska_Studio.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+</ul>]]></content><author><name>lightning_summary</name></author><category term="プロモーション" /><summary type="html"><![CDATA[PDF資料もしくはウェブ上の資料からAI解説動画を作成します。]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/ja/assets/images/Aska_Studio.jpg" /><media:content medium="image" url="http://localhost:4000/ja/assets/images/Aska_Studio.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
