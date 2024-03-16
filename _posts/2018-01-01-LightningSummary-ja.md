@@ -3,7 +3,7 @@ layout: post
 title:  "資料から動画制作"
 author: lightning_summary
 categories: プロモーション
-image: assets/images/LightningSummary.jpg
+image: assets/images/lightning-summary.jpg
 lang: 'ja'
 ---
 PDF資料もしくはウェブ上の資料からAI解説動画を作成します。
