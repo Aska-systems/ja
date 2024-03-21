@@ -22,7 +22,7 @@ PDF資料や発表スライド、セリフ原稿等の資料を元に、生成AI
 
 <a class="btn btn-primary text-white" href="https://www.youtube.com/@lightning_summary/videos">YouTube (@lightning_summary)</a>
 
-<a class="btn btn-primary text-white" href="https://twitter.com/LightninSummary">公式 X</a>
+<a class="btn btn-primary text-white" href="https://twitter.com/LightninSummary">公式 X (@LightninSummary)</a>
 
 ### note
 
@@ -52,4 +52,4 @@ PDF資料や発表スライド、セリフ原稿等の資料を元に、生成AI
 
 ### 注意点
 - 資料から動画を生成する場合は、GPT等の生成AIを利用します。予めご了承の上、ご発注ください。
-- 当サービスでは、動画の生成に[Synthesia](https://www.synthesia.io/)を使用しております。Synthesiaの利用規約に抵触するご利用目的（課金広告に使用する動画等）の動画制作は、お断りさせていただいております。
+- 当サービスでは、動画の生成に[Synthesia](https://www.synthesia.io/)を使用しております。Synthesiaの利用規約に抵触するご利用目的（課金広告に使用する動画等）の動画制作は、お断りさせていただいております。（ご注文に問題が生じそうな場合は、事前にお知らせしますので、ご安心ください。）

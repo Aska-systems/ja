@@ -4,6 +4,7 @@ title:  "花束ダイアグラム"
 author: bouquet_diagram
 categories: アンケート関係
 image: assets/images/Hanataba_diagram.jpg
+website: https://www.bouquet-diagram.app/ja
 lang: 'ja'
 ---
 
@@ -11,6 +12,14 @@ lang: 'ja'
 
 花束ダイアグラムは、アンケート調査等で得られたデータを美しく、わかりやすく表現した図です。
 情報量が多い図のため、データの詳細を一望することができ、部分を拡大しながら見ていくことで視覚的なデータ分析にも使えます。
+
+
+## サンプル
+インスタグラムにカタログを掲載しております。ぜひご参照ください。
+
+<a class="btn btn-primary text-white" href="https://www.instagram.com/hanataba_diagram/">カタログ (@hanataba_diagram)</a>
+
+
 
 #### ① Bouquet (ブーケ)
 
@@ -32,34 +41,6 @@ lang: 'ja'
 
 
 
-## サンプル
-インスタグラムにカタログを掲載しております。ぜひご参照ください。
-
-<a class="btn btn-primary text-white" href="https://www.instagram.com/hanataba_diagram/">カタログ (@hanataba_diagram)</a>
-
-
-## ベクトルデータ販売
-カタログ（インスタグラム）に掲載されている作品の一部を、ベクトルデータ（svg）としてnoteで販売しています。
-
-<a class="btn btn-primary text-white" href="https://note.com/tatsurokawamoto/m/m373123013d96">データ販売 (@note)</a>
-
-
-## ご注文・ご相談
-こちらのGoogleフォームより、ご注文・ご相談いただけます。
-ご注文確定後、支払いリンクをお送りいたしますので、まずはお気軽にお声がけください。
-
-<a class="btn btn-primary text-white" href="https://forms.gle/VqBKyR1uGZT82zYC8">ご注文・ご相談用Googleフォーム</a>
-
-
-
-
-## 価格
-
-**¥33,000/図（税込）**【試験運用価格】
-
-- オンラインにてご要望をヒアリングさせていただいた上で、SVGファイル（ベクトルデータ）を納品いたします。
-- 1週間以内を目処に納品いたします。
-- インスタグラムに掲載しているものは、背景等の装飾を施しておりますが、納品は花束ダイアグラム本体のみとなります。
 
 
 
