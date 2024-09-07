@@ -1,246 +1,29 @@
-<!DOCTYPE HTML>
-<!--
-	Hyperspace by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
--->
-<html>
-	<head>
-		<title>Aska Intelligence</title>
-		<meta charset="utf-8" />
-		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
-		<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
-		 <link rel="icon" href="images/favicon.ico" type="image/x-icon">
-		<link rel="stylesheet" href="assets/css/main.css" />
-		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
-	</head>
-	<body class="is-preload">
+---
+layout: page-sidebar
+pagination:
+    enabled: true
+description: "Integrating Wisdom of Individuals to Benefit Society and Industry."
+image: "/assets/images/aska_bg.svg"
+---
 
-		<!-- Sidebar -->
-			<section id="sidebar">
-				<div class="inner">
-					<nav>
-						<ul>
-							<li><a href="#intro">Welcome</a></li>
-							<li><a href="#services">What we do</a></li>
-							<li><a href="#about">About us</a></li>
-							<li><a href="#contact">Contact us</a></li>
-						</ul>
-					</nav>
-				</div>
-			</section>
 
-		<!-- Wrapper -->
-			<div id="wrapper">
+<div class="container">
+    
+{% if page.url == "/" %}
+    
+    
+<h4>
+    人々の知恵を統合し、社会と産業に価値を創出する
+</h4>
 
-				<!-- Intro -->
-					<section id="intro" class="wrapper style1 fullscreen fade-up">
-						<div class="inner">
-							<div class="d-flex justify-content-end mb-5">
-								<a href="https://aska-intelligence.com" class="button small">Page in English</a>
-							</div>
-							<img src="images/Aska_flow.png" class="img-fluid" alt="" data-position="center center" />
-							<label>合同会社</label>
-							<h1>Aska Intelligence</h1>
-							<p>人々とAIの知恵を統合で社会と産業に価値を創出する</p>
-							<ul class="actions">
-								<li><a href="#services" class="button scrolly">What we do</a></li>
-								<li><a href="#about" class="button scrolly">About us</a></li>
-								<li><a href="#contact" class="button scrolly">Contact us</a></li>
-							</ul>
-						</div>
-					</section>
+<p>Integrating Wisdom of Individuals to Benefit Society and Industry</p>
+    
 
-				<!-- One -->
-					<section id="services" class="wrapper style2 spotlights">
-						<section>
-							<a href="#" class="image"><img src="images/aska.jpg" class="img-fluid" alt="" data-position="center center" /></a>
-							<div class="content">
-								<div class="inner">
-									<h2>Aska / Alaska</h2>
-									<p>AI駆動型自由記述式アンケートプラットフォーム</p>
-											<ul class="alt">
-												<li>アンケート調査のAIシミュレーション</li>
-												<li>定量評価可能な自由記述式アンケート</li>
-												<!-- <li>Dynamic Translation in 15 Languages</li> -->
-											</ul>
-									<ul class="actions">
-										<li><a href="https://aska.systems/ja" class="button">ランディングページ</a></li>
-									</ul>
-									<ul class="actions">
-										<li><a href="https://aska-intelligence.com/Askabout" class="button">事例集 (Askabout)</a></li>
-										<li><a href="https://aska-intelligence.com/agency-ja" class="button">案件毎の総合サポート</a></li>
-									</ul>
-								</div>
-							</div>
-						</section>
-						<section>
-							<a href="#" class="image"><img src="images/bouquet.jpg" class="img-fluid" alt="" data-position="top center" /></a>
-							<div class="content">
-								<div class="inner">
-									<h2>花束ダイアグラム</h2>
-									<p>データ可視化ウェブアプリ（Bouquet Diagrams）</p>
-									<p>アンケート結果のようなカテゴリカルデータを綺麗に、わかりやすく可視化する図です。</p>
-									<ul class="actions">
-										<li><a href="https://www.bouquet-diagram.app/ja" class="button">ランディングページ</a></li>
-									</ul>
-											<ul class="icons">
-												<li><a href="https://www.instagram.com/hanataba_diagram/" class="icon brands fa-instagram"><span class="label"></span> カタログ</a></li>
-											</ul>
-								</div>
-							</div>
-						</section>
-						<section>
-							<a href="#" class="image"><img src="images/LightningSummary.jpg" class="img-fluid" alt="" data-position="25% 25%" /></a>
-							<div class="content">
-								<div class="inner">
-									<h2>YouTube動画・解説記事</h2>
-									<p>機械学習・大規模言語モデル, データ可視化, アンケート手法などについて解説しています。</p>
-									<ul class="actions">
-										<li><a href="articles.html" class="button">詳しくみる</a></li>
-									</ul>
-								</div>
-							</div>
-						</section>
-						<section>
-							<a href="#" class="image"><img src="images/pdf-to-video.jpg" class="img-fluid" alt="" data-position="25% 25%" /></a>
-							<div class="content">
-								<div class="inner">
-									<h2>PDF-to-Videoサービス</h2>
-									<p>PDF資料もしくはウェブ上の資料からAI解説動画を制作します。</p>
-									<ul class="actions">
-										<li><a href="https://askaintelligence.wixsite.com/lightning-summary" class="button">ランディングページ</a></li>
-									</ul>
-								</div>
-							</div>
-						</section>
-					</section>
 
-				<!-- Two -->
-					<section id="about" class="wrapper style3 fade-up">
-						<div class="inner">
-							<h2>About Us</h2>
-							<!-- <p></p> -->
-							<div class="features">
-								<section>
-									<span class="icon solid major fa-building"></span>
-									<h3>合同会社 Aska Intelligence</h3>
-									<p>2023年創業</p>
-									<p>人々とAIの集合知を構造化し、社会についての深い洞察を得ることで、人々の意思決定を支援します。</p>
-								</section>
-								<section>
-									<!-- <span class="icon solid major fa-user-tie"></span> -->
-									<span><img class="intro" height="100" src="images/Tatsuro2022.png"></span>
-									<h3>川本 達郎</h3>
-									<p>代表社員</p>
-									<h6>国立研究開発法人 産業技術総合研究所 人工知能研究センター 主任研究員 (休職中)</h6>
-								</section>
-								<!-- <section>
-									<span class="icon solid major fa-cog"></span>
-									<h3>Sed erat ullam corper</h3>
-									<p>Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam turpis mauris, sed ultricies erat dapibus.</p>
-								</section>
-								<section>
-									<span class="icon solid major fa-desktop"></span>
-									<h3>Veroeros quis lorem</h3>
-									<p>Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam turpis mauris, sed ultricies erat dapibus.</p>
-								</section>
-								<section>
-									<span class="icon solid major fa-link"></span>
-									<h3>Urna quis bibendum</h3>
-									<p>Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam turpis mauris, sed ultricies erat dapibus.</p>
-								</section>
-								<section>
-									<span class="icon major fa-gem"></span>
-									<h3>Aliquam urna dapibus</h3>
-									<p>Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam turpis mauris, sed ultricies erat dapibus.</p>
-								</section> -->
-							</div>
-							<ul class="actions">
-								<li><a href="https://aska.systems/commerce-disclosure/ja" class="button">詳しくみる</a></li>
-							</ul>
-						</div>
-					</section>
+{% endif %} <!--endif page url is / -->
+    
 
-				<!-- Three -->
-					<section id="contact" class="wrapper style1 fade-up">
-						<div class="inner">
-							<h2>Contact Us</h2>
-							<p>アンケート調査の実施依頼等については、こちらからお問い合わせください。</p>
-							<div class="split style1">
-								<section>
-									<!-- <form method="post" action="#"> -->
-									<form action="https://getform.io/f/ec841fd0-f694-4cff-98c6-271cf42f53ae" method="POST">
-										<div class="fields">
-											<div class="field half">
-												<label for="name">お名前</label>
-												<input type="text" name="name" id="name" required/>
-											</div>
-											<div class="field half">
-												<label for="email">Eメール</label>
-												<input type="text" name="email" id="email" required/>
-											</div>
-											<!-- add hidden Honeypot input to prevent spams -->
-											<input type="hidden" name="_gotcha" style="display:none !important">
-											<div class="field">
-												<label for="message">お問合せ内容</label>
-												<textarea name="message" id="message" rows="5" required></textarea>
-											</div>
-										</div>
-										<ul class="actions">
-											<!-- <li><a href="" class="button submit">Send Message</a></li> -->
-											<input class="button submit primary" type="submit" value="送信">
-										</ul>
-									</form>
-								</section>
-								<section>
-									<ul class="contact">
-										<li>
-											<h3>所在地</h3>
-											<span>東京都港区浜松町2-2-15</span>
-										</li>
-										<li>
-											<h3>Eメール</h3>
-											<a href="mailto:contact@aska.systems">contact@aska.systems</a>
-										</li>
-										<!-- <li>
-											<h3>Phone</h3>
-											<span>(000) 000-0000</span>
-										</li> -->
-										<li>
-											<h3>ソーシャルメディア</h3>
-											<ul class="icons">
-												<li><a href="https://twitter.com/skaintelligence" class="icon brands fa-twitter"><span class="label">X</span></a></li>
-												<!-- <li><a href="#" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li> -->
-												<!-- <li><a href="#" class="icon brands fa-github"><span class="label">GitHub</span></a></li> -->
-												<!-- <li><a href="#" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li> -->
-												<!-- <li><a href="#" class="icon brands fa-linkedin-in"><span class="label">LinkedIn</span></a></li> -->
-											</ul>
-										</li>
-									</ul>
-								</section>
-							</div>
-						</div>
-					</section>
 
-			</div>
 
-		<!-- Footer -->
-			<footer id="footer" class="wrapper style1-alt">
-				<div class="inner">
-					<ul class="menu">
-						<li class="text-white">&copy; Aska Intelligence LLC. All rights reserved.</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
-					</ul>
-				</div>
-			</footer>
 
-		<!-- Scripts -->
-			<script src="assets/js/jquery.min.js"></script>
-			<script src="assets/js/jquery.scrollex.min.js"></script>
-			<script src="assets/js/jquery.scrolly.min.js"></script>
-			<script src="assets/js/browser.min.js"></script>
-			<script src="assets/js/breakpoints.min.js"></script>
-			<script src="assets/js/util.js"></script>
-			<script src="assets/js/main.js"></script>
-	</body>
-</html>
+</div>
