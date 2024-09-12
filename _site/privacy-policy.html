@@ -46,7 +46,14 @@
 
     <!-- This goes before </head> closing tag, Google Analytics can be placed here --> 
 
-
+    <style>
+        .success-message {
+          display: none;
+        }    
+        .failure-message {
+          display: none;
+        }    
+    </style>
 </head>
 
 <body class="">
@@ -63,7 +70,7 @@
                <!--  Replace menu links here -->
 
 <li class="nav-item">
-<a class="nav-link" href="/ja/index.html">Home <i class="fa fa-home text-primary"></i></a>
+<a class="nav-link" href="/ja/about.html">About <i class="fa fa-home text-primary"></i></a>
 </li>
 <li class="nav-item">
 <a class="nav-link" href="/ja/products.html">Products <i class="fa fa-rocket text-primary"></i></a>
@@ -94,7 +101,7 @@ var documents = [{
     "id": 1,
     "url": "http://localhost:4000/ja/about.html",
     "title": "About",
-    "body": "	我々のミッション	世界をもっと理解できるようにする 		: 	Make the world more interpretable.  	すべての人々が、事象・社会・モノをもっとよく理解できるような仕組みを創ります。 会社情報: 会社名: 合同会社 Aska Intelligence 運営統括責任者: 川本 達郎 所在地: 東京都港区浜松町2-2-15 Eメール：contact@aska. systems TEL: (+81) 070-7564-6234 特定商取引法に基づく表記 ソーシャルメディア公式X: @skaintelligence "
+    "body": "	我々のミッション	世界をもっと理解できるようにする 		: 	Make the world more interpretable.  	すべての人々が、事象・社会・モノをもっとよく理解できるような仕組みを創ります。 会社情報: 会社名: 合同会社 Aska Intelligence 代表社員: 川本 達郎 所在地: 東京都港区浜松町2-2-15 Eメール：contact@aska. systems TEL: (+81) 070-7564-6234 特定商取引法に基づく表記 ソーシャルメディア公式X: @skaintelligence 代表社員: 川本 達郎（かわもと たつろう）: 国立研究開発法人 産業技術総合研究所 人工知能研究センター 主任研究員 (休職中) 研究者個人ページ "
     }, {
     "id": 2,
     "url": "http://localhost:4000/ja/askus.html",
@@ -104,7 +111,7 @@ var documents = [{
     "id": 3,
     "url": "http://localhost:4000/ja/author-jane.html",
     "title": "Jane",
-    "body": "                        Jane Follow:         https://www. wowthemes. net         Blogger, fashionista, love to explore new ideas and write on my morning coffee!                                   Posts by Jane:                   		戦争と平和についての世論調査 2024	: 		  ウクライナとロシアの戦争が開始から２年半が経ち、パレスチナとイスラエルの間にも緊張状態が続いています。戦争は人々の生命を賭けた国家間の究極の駆け引きであり、決して善悪の二元論で整理できるシンプルな問題ではありません。特に多くが国民国家である現在の世の中では、選挙を介して世論の影響が複雑かつ大きく国家の決定に関与します。従って、後世に歴史を振り返って過去から教訓を得. . . 	 			In 				世論調査, 								Sep 12, 2024						            		Markdown Example	: 		  You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common wa. . . 	 			In 				Jekyll, 				tutorial, 								Jan 19, 2019						        "
+    "body": "                        Jane Follow:                                                    Posts by Jane:                   		戦争と平和についての世論調査 2024	: 		  ウクライナとロシアの戦争が開始から２年半が経ち、パレスチナとイスラエルの間にも緊張状態が続いています。戦争は人々の生命を賭けた国家間の究極の駆け引きであり、決して善悪の二元論で整理できるシンプルな問題ではありません。特に多くが国民国家である現在の世の中では、選挙を介して世論の影響が複雑かつ大きく国家の決定に関与します。従って、後世に歴史を振り返って過去から教訓を得. . . 	 			In 				世論調査, 								Sep 12, 2024						            		Markdown Example	: 		  You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common wa. . . 	 			In 				Jekyll, 				tutorial, 								Jan 19, 2019						        "
     }, {
     "id": 4,
     "url": "http://localhost:4000/ja/author-sal.html",
@@ -114,7 +121,7 @@ var documents = [{
     "id": 5,
     "url": "http://localhost:4000/ja/authors-list.html",
     "title": "Authors",
-    "body": "Authors:                                             Sal :       (View Posts)      Hi, I am Sal, the author of Mundana, the theme you're currently previewing. I hope you like it!                          &nbsp;       &nbsp;                                                                             Jane :       (View Posts)      Blogger, fashionista, love to explore new ideas and write on my morning coffee!                          &nbsp;       &nbsp;                                      "
+    "body": "Authors:                                             Sal :       (View Posts)      Hi, I am Sal, the author of Mundana, the theme you're currently previewing. I hope you like it!                          &nbsp;       &nbsp;                                                                             川本達郎 :       (View Posts)      Aska Intelligence 代表社員                          &nbsp;       &nbsp;                                      "
     }, {
     "id": 6,
     "url": "http://localhost:4000/ja/buy-me-a-coffee.html",
@@ -129,7 +136,7 @@ var documents = [{
     "id": 8,
     "url": "http://localhost:4000/ja/contact.html",
     "title": "Contact",
-    "body": "  弊社サービスやプロダクトについてのご質問やご相談などは、こちらにて承っております。   "
+    "body": "  弊社サービスやプロダクトについてのご質問やご相談などは、こちらにて承っております。   	 送信完了しました: 	折り返し返信いたしますので、お待ちください。 	送信できませんでした: 	お手数ですが、contact@aska. systems宛に送信いただけますと幸いです。 "
     }, {
     "id": 9,
     "url": "http://localhost:4000/ja/",
