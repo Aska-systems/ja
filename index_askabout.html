@@ -3,7 +3,7 @@ title: "Aska Intelligence"
 layout: default
 pagination:
     enabled: true
-description: "Integrating Wisdom of Individuals to Benefit Society and Industry."
+description: "世界をもっと理解できるようにする"
 ---
 
 
@@ -14,7 +14,7 @@ description: "Integrating Wisdom of Individuals to Benefit Society and Industry.
     
 <div class="row my-3">
 <div class="col-md-8 main-loop">
-    <h4 class="font-weight-bold spanborder"><span>Latest Stories</span></h4>
+    <h4 class="font-weight-bold spanborder"><span>Latest Topics</span></h4>
 </div>
 </div>
     
@@ -37,7 +37,7 @@ description: "Integrating Wisdom of Individuals to Benefit Society and Industry.
     </p>
     <div>
         <small class="d-block text-muted">
-            In <span class="catlist">
+            <span class="catlist">
                 {% for category in latest_post.categories %}
                 <a class="text-capitalize text-muted smoothscroll" href="{{site.baseurl}}/categories.html#{{ category | downcase }}">{{ category }}</a><span class="sep">, </span>
                 {% endfor %}
@@ -68,7 +68,7 @@ description: "Integrating Wisdom of Individuals to Benefit Society and Industry.
                     <a class="text-dark" href="{{site.baseurl}}{{second_post.url}}">{{ second_post.title }}</a>
                     </h2>
                     <small class="d-block text-muted">
-                        In <span class="catlist">
+                        <span class="catlist">
                         {% for category in second_post.categories %}
                         <a class="text-capitalize text-muted smoothscroll" href="{{site.baseurl}}/categories.html#{{ category | downcase }}">{{ category }}</a><span class="sep">, </span>
                         {% endfor %}
@@ -95,7 +95,7 @@ description: "Integrating Wisdom of Individuals to Benefit Society and Industry.
                     <a class="text-dark" href="{{site.baseurl}}{{third_post.url}}">{{ third_post.title }}</a>
                     </h2>
                     <small class="d-block text-muted">
-                        In <span class="catlist">
+                        <span class="catlist">
                         {% for category in third_post.categories %}
                         <a class="text-capitalize text-muted smoothscroll" href="{{site.baseurl}}/categories.html#{{ category | downcase }}">{{ category }}</a><span class="sep">, </span>
                         {% endfor %}
@@ -122,7 +122,7 @@ description: "Integrating Wisdom of Individuals to Benefit Society and Industry.
                     <a class="text-dark" href="{{site.baseurl}}{{fourth_post.url}}">{{ fourth_post.title }}</a>
                     </h2>
                     <small class="d-block text-muted">
-                        In <span class="catlist">
+                        <span class="catlist">
                         {% for category in fourth_post.categories %}
                         <a class="text-capitalize text-muted smoothscroll" href="{{site.baseurl}}/categories.html#{{ category | downcase }}">{{ category }}</a><span class="sep">, </span>
                         {% endfor %}
@@ -173,7 +173,7 @@ description: "Integrating Wisdom of Individuals to Benefit Society and Industry.
    
     <div class="col-md-8 main-loop">
         
-        <h4 class="font-weight-bold spanborder"><span>All Stories</span></h4>
+        <h4 class="font-weight-bold spanborder"><span>All Topics</span></h4>
         
 
         {% for post in paginator.posts %}
@@ -214,7 +214,8 @@ description: "Integrating Wisdom of Individuals to Benefit Society and Industry.
     </div>
     
     <div class="col-md-4">
-        {% include sidebar-featured.html %}    
+        {% include sidebar.html %}
+        <!-- {% include sidebar-featured.html %} -->
     </div>
     
 </div>

@@ -19,6 +19,10 @@ comments: false
 	Make the world more interpretable. 
 </p>
 
+<p>
+	すべての人々が、事象・社会・モノをもっとよく理解できるような仕組みを創ります。
+</p>
+
 
 <h3 class="mt-6 mb-3">会社情報</h3>
 

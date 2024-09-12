@@ -1,44 +1,47 @@
 ---
-title: "Services/Products"
+title: "Products"
 layout: page-sidebar
-permalink: "/services.html"
+permalink: "/products.html"
 comments: false
 ---
 
-<p class="mb-5">
-当社主催の世論調査のほかにも、さまざまなプロダクト開発・運用やサービス提供を行っております。
-</p>
+
+<h3 class="text-dark font-weight-bold mb-4">アンケート調査ツール</h3>
 
 
-<h3 class="text-dark font-weight-bold">データ収集・調査</h3>
-
-
-#### <i class="fa fa-tv text-primary"></i> [Aska【SaaS】](https://aska.systems/ja)
+#### <i class="fa fa-tv text-primary"></i> Aska【SaaS】
 
 ![aska]({{ site.baseurl }}/assets/images/Aska_survey.jpg)
 
 Aska（アスカ）は、自由記述を含む回答をSNS形式で収集する次世代型ウェブアンケートシステムです。
 人々からの回答以外にも、AIエージェントによるシミュレーターも搭載しており、効率的なアンケート設計が可能です。
 
-<a target="_blank" class="btn btn-warning mb-5" href="https://aska.systems/ja">Aska</a> 
+<a target="_blank" class="btn btn-warning mb-5" href="https://aska.systems/ja">Aska ランディングページ</a> 
+
+#### <i class="fa fa-tv text-primary"></i> AIアンケートシミュレーター
+
+![aska]({{ site.baseurl }}/assets/images/AI_simulator.jpg)
+
+アンケート調査において調査設計は大変重要ですが、従来は専門家の経験知や対人のインタビュー調査に頼るしかありませんでした。
+マルチエージェントの生成AIシミュレーションは、従来の対人インタビュー調査を模倣し、効率的な調査設計を実現します。
+
+<a target="_blank" class="btn btn-warning mb-5" href="https://survey-simulator.studio.site/">AIアンケートシミュレーター</a> 
 
 
-#### <i class="fa fa-tv text-primary"></i> [Kaskade【App】]()
+<!-- #### <i class="fa fa-tv text-primary"></i> [Kaskade【App】]()
 
 ![Kaskade]({{ site.baseurl }}/assets/images/Kaskade.jpg)
 
 「Kaskade」（カスケード）は、ユーザー（依頼主）から投稿された動画をレビュアー（経験豊富なコーチ）たちがコメントできるリモート・コーチングツールです。
 
-<a target="_blank" class="btn btn-warning mb-5" href="#">現在準備中です</a> 
+<a target="_blank" class="btn btn-warning mb-5" href="#">現在準備中です</a>  -->
 
 
-#### <i class="fa fa-cubes text-primary"></i> [AskUs【受注調査】]()
+<!-- #### <i class="fa fa-cubes text-primary"></i> AIアンケートシミュレーター
 
 ![AskUs]({{ site.baseurl }}/assets/images/AskUs.jpg)
 
-AskUs（アスク・アス）は、お客様からご依頼のあった調査の実施・分析・サポートを行う受注形式のサービスです。
-
-<a target="_blank" class="btn btn-warning mb-5" href="https://aska-intelligence.com/AskUs-enterprise/">AskUsのご案内</a> 
+<a class="btn btn-warning mb-5" href="{{site.baseurl}}/askus">AIアンケートシミュレーター</a>  -->
 
 
 <hr>
