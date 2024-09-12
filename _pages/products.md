@@ -52,7 +52,7 @@ Aska（アスカ）は、自由記述を含む回答をSNS形式で収集する�
 
 <h6 class="text-dark font-weight-bold mt-5 mb-4">アンケート調査関係</h6>
 
-#### <i class="fa fa-video text-danger"></i> [【速習】Survey Methodology](https://www.youtube.com/playlist?list=PLzacXZDB9Ruo14T9j-dfSnYPXR7TGOVxM)
+#### <i class="fa fa-video text-danger"></i> 【速習】Survey Methodology
 アンケート調査法の古典的教科書 "Survey Methodology"（Groves et al.著, 2009）の要点を、各章数分の動画でまとめたYouTube動画です。
 
 <a target="_blank" class="btn btn-warning mb-1" href="https://www.youtube.com/playlist?list=PLzacXZDB9Ruo14T9j-dfSnYPXR7TGOVxM">YouTubeにて無料公開</a> 
@@ -70,23 +70,23 @@ Aska（アスカ）は、自由記述を含む回答をSNS形式で収集する�
 
 　　
 
-#### <i class="fa fa-video text-danger"></i> [【トピック解説】データスクリーニング]()
+#### <i class="fa fa-video text-danger"></i> 【トピック解説】データスクリーニング
 収集した調査データに含まれる無効なデータをスクリーニングすることで、データの質を向上させることができます。学術論文を基に、メジャーなスクリーニング手法をご紹介します。
 
-<a target="_blank" class="btn btn-secondary mb-1" href="">noteにてセット販売（¥1,000）</a> 
+<a class="btn btn-secondary mb-1" href="https://note.com/tatsurokawamoto/n/n613fa5036081">noteにてセット販売（¥1,500）</a> 
 
-1. [Satisficing（サティスファイシング）]()
-2. [禁じ手？強力すぎる検出法「IMC」]()
-3. [ド直球！「シリアスネスチェック」]()
-4. [「回答時間分析」はスクリーニングの定石]()
-5. [まずは試してみるべき「Long-string分析」]()
-6. [意外と強力!?「マハラノビス距離」]()
-7. [「偶奇整合性」という古典技]()
-8. [「類語・対義語の整合性」で矛盾を見抜く！]()
+1. Satisficing（サティスファイシング）
+2. 禁じ手？強力すぎる検出法「IMC」
+3. ド直球！「シリアスネスチェック」
+4. 「回答時間分析」はスクリーニングの定石
+5. まずは試してみるべき「Long-string分析」
+6. 意外と強力!?「マハラノビス距離」
+7. 「偶奇整合性」という古典技
+8. 「類語・対義語の整合性」で矛盾を見抜く！
 
 
 
-#### <i class="fa fa-video text-danger"></i> [【コラム】調査のギモン](https://www.youtube.com/playlist?list=PLzacXZDB9RupqGQLLd4-JDn6HdBtfstbY)
+#### <i class="fa fa-video text-danger"></i> 【コラム】調査のギモン
 アンケート調査にまつわるコラムを動画として掲載しています。
 
 <a target="_blank" class="btn btn-warning mb-1" href="https://www.youtube.com/playlist?list=PLzacXZDB9RupqGQLLd4-JDn6HdBtfstbY">YouTubeにて無料公開</a> 
@@ -107,7 +107,7 @@ Aska（アスカ）は、自由記述を含む回答をSNS形式で収集する�
 
 <h6 class="text-dark font-weight-bold mt-5 mb-4">データ分析関係</h6>
 
-#### <i class="fa fa-book text-secondary"></i> [因子分析の導出](https://zenn.dev/tatsurokawamoto/books/08b2ec4265e3e7)
+#### <i class="fa fa-book text-secondary"></i> 因子分析の導出
 
 因子分析で使われている古典的な方法にはどんなものがあって、具体的にどんな数式になっていて、それはどうやって導出するのかをまとめたものです。「とりあえず因子分析が使えるようになる入門書」でも「因子分析の専門書」でもなく、「昔から知られている因子分析の方法を、式をちゃんと導出して理解する本」です。
 
@@ -128,7 +128,7 @@ Aska（アスカ）は、自由記述を含む回答をSNS形式で収集する�
 
 <h6 class="text-dark font-weight-bold mt-5 mb-4">データ可視化関係</h6>
 
-#### <i class="fa fa-book text-secondary"></i> [ちょっとディープなデータ可視化](https://note.com/tatsurokawamoto/m/mba6802434f82)
+#### <i class="fa fa-book text-secondary"></i> ちょっとディープなデータ可視化
 入門書には載っていないような少しディープなデータ可視化の内容について解説していきます（比較的詳しい洋書や学術論文の抜粋解説、独自の解説記事など）。
 
 <a target="_blank" class="btn btn-secondary mb-1" href="https://note.com/tatsurokawamoto/m/mba6802434f82">noteにてセット販売（¥500）</a> 
@@ -149,7 +149,7 @@ Aska（アスカ）は、自由記述を含む回答をSNS形式で収集する�
 
 <h6 class="text-dark font-weight-bold mt-5 mb-4">大規模言語モデル関係</h6>
 
-#### <i class="fa fa-video text-danger"></i> [LLM研究の要約紹介](https://www.youtube.com/playlist?list=PLE7BfQ3Kqcbwogk7BJoLv2p98jDCUOJvq)
+#### <i class="fa fa-video text-danger"></i> LLM研究の要約紹介
 ChatGPT等の技術について、学術論文やソフトウェアなどの簡潔なまとめです。こちらはすべて英語動画になります。
 
 ##### YouTube
@@ -179,10 +179,10 @@ ChatGPT等の技術について、学術論文やソフトウェアなどの簡�
 <hr>
 
 
-<h3 class="text-dark font-weight-bold mt-6">その他のサービス</h3>
+<h3 class="text-dark font-weight-bold mt-6 mb-4">その他のサービス</h3>
 
 
-#### [【PDF-to-Videoサービス】ライトニング・サマリー](https://askaintelligence.wixsite.com/lightning-summary)
+#### <i class="fa fa-tv text-primary"></i>【PDF-to-Videoサービス】ライトニング・サマリー
 PDF資料もしくはウェブ上の資料からAI解説動画を制作するサービスです。
 
 <a target="_blank" class="btn btn-warning mb-6" href="https://askaintelligence.wixsite.com/lightning-summary">ランディングページ</a>
