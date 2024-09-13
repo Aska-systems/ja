@@ -108,7 +108,7 @@ var documents = [{
     "id": 2,
     "url": "http://localhost:4000/ja/askus.html",
     "title": "AskUs",
-    "body": "調査を依頼 / 調査のサポートを依頼: Aska Intelligenceの調査技術をご利用いただけます。 アンケート調査設計マルチエージェントの生成AIシミュレーション等の技術で従来の対人インタビュー調査を模倣し、効率的な調査設計を実現します。曖昧な問いかけの質問文になっていないかをチェック、実際の回答者から聞き出すのが難しい「なぜその回答をしたのか」をAIから読み解きます。 SNS型自由記述式アンケート調査SNS型自由記述式アンケートシステム『Aska』を用いて、従来法よりも柔軟で深掘りできる調査を実現します。 回答者パネルについて：弊社でパネルをご用意する場合は、クラウドソーシングによる募集を行わせていただきます。ご自身で用意されたパネルを利用することも、外部サービスとも連携も可能です。 データクレンジング・ウェイティングどれだけ大規模な調査を行ったとしても、収集した生データをそのまま分析すると誤った結果を出してしまうことがあります。データのクレンジングとウェイティング技術を用いて、より信頼性の高い調査結果を実現します。 データ分析・可視化様々な分析パッケージや独自技術を用いて、収集したデータの分析・可視化を行います。  1調査あたりのご料金 ¥200,000 (税込):   高品質な調査の実現に向けて、上記サービスを含む総合的なサポートを担当したします。また、Askaのアカウントをご登録いただく必要はございません。  ご相談だけでも結構です。まずはお気軽のお問合せください。  お問合せ"
+    "body": "調査を依頼 / 調査のサポートを依頼: Aska Intelligenceの調査技術をご利用いただけます。実例としていくつか調査レポートを公開していますので、ぜひ参考にしてください。 世界をもっとよく理解する調査Askabout（アスク・アバウト）  アンケート調査設計マルチエージェントの生成AIシミュレーション等の技術で従来の対人インタビュー調査を模倣し、効率的な調査設計を実現します。曖昧な問いかけの質問文になっていないかをチェック、実際の回答者から聞き出すのが難しい「なぜその回答をしたのか」をAIから読み解きます。 SNS型自由記述式アンケート調査SNS型自由記述式アンケートシステム『Aska』を用いて、従来法よりも柔軟で深掘りできる調査を実現します。 回答者パネルについて：弊社でパネルをご用意する場合は、クラウドソーシングによる募集を行わせていただきます。ご自身で用意されたパネルを利用することも、外部サービスとも連携も可能です。 データクレンジング・ウェイティングどれだけ大規模な調査を行ったとしても、収集した生データをそのまま分析すると誤った結果を出してしまうことがあります。データのクレンジングとウェイティング技術を用いて、より信頼性の高い調査結果を実現します。 データ分析・可視化様々な分析パッケージや独自技術を用いて、収集したデータの分析・可視化を行います。  1調査あたりのご料金 ¥200,000 (税込):   高品質な調査の実現に向けて、上記サービスを含む総合的なサポートを担当したします。また、Askaのアカウントをご登録いただく必要はございません。  ご相談だけでも結構です。まずはお気軽のお問合せください。  お問合せ"
     }, {
     "id": 3,
     "url": "http://localhost:4000/ja/author-jane.html",
@@ -300,9 +300,10 @@ function lunr_search(term) {
 <a target="_blank" class="btn btn-danger d-block" href="https://www.wowthemes.net/donate/"><i class="fa fa-coffee"></i> Buy me a coffee</a>  -->
 
 
-<!-- <h3 class="mt-4 mb-3">- Projects -</h3> -->
-<!-- <p class="mb-1">世界をもっとよく理解する調査</p> -->
-<!-- <a href="/ja/askus" class="btn btn-warning d-block mb-6">Askabout（アスク・アバウト）</a>  -->
+<h3 class="mt-4 mb-3">- Projects -</h3>
+<h6 class="mb-1">世界をもっとよく理解する調査</h6>
+<a href="https://note.com/tatsurokawamoto/m/maece3a3a7953" class="btn btn-warning d-block mb-2">Askabout（アスク・アバウト）</a> 
+<p class="nav-link mb-6">当社の公開調査レポートをnoteに掲載しています。</p>
 
 
 
@@ -310,16 +311,19 @@ function lunr_search(term) {
 
 
 <h3 class="mt-5 mb-3">- Services -</h3>
-<p class="mb-1">アンケート調査の依頼 / サポート依頼</p>
-<a href="/ja/askus" class="btn btn-danger d-block mb-4">AskUs（アスク・アス）</a> 
+<div class="jumbotron pt-3 pb-2">
+	<p class="mb-1">アンケート調査の依頼 / サポート依頼</p>
+	<a href="/ja/askus" class="btn btn-danger d-block mb-4">AskUs（アスク・アス）</a> 
 
-<p class="mb-1">スタートアップのための市場適合性調査</p>
-<a target="_blank" href="https://aska-intelligence.com/gyokai-interview/" class="btn btn-danger d-block mb-4">『ギョーカイ・インタビュー』</a>
-
+	<p class="mb-1">スタートアップのための市場適合性調査</p>
+	<a target="_blank" href="https://aska-intelligence.com/gyokai-interview/" class="btn btn-danger d-block mb-4">『ギョーカイ・インタビュー』</a>
+</div>
 
 <h3 class="mt-5">- Partnerships -</h3>
+<ul>
+	<li><a href="https://mirai.osaka-kyoiku.ac.jp/">大阪教育大学 みらい教育共創パートナー</a></li>
+</ul>
 
-<i class="fa fa-handshake"></i> <a href="https://mirai.osaka-kyoiku.ac.jp/">大阪教育大学 みらい教育共創パートナー</a>
 
 <!-- <h5 class="mb-3"><a class="nav-link" href="/ja/services">- Services/Products -</a></h5>
 

@@ -10,7 +10,15 @@ comments: false
 <h3 class="mt-3">調査を依頼 / 調査のサポートを依頼</h3>
 <p class="mb-5">
 Aska Intelligenceの調査技術をご利用いただけます。
+実例としていくつか調査レポートを公開していますので、ぜひ参考にしてください。
 </p>
+
+<!-- <div class="jumbotron pt-3 pb-0"> -->
+<h6 class="mb-2">世界をもっとよく理解する調査</h6>
+<a href="https://note.com/tatsurokawamoto/m/maece3a3a7953" class="btn btn-warning mb-5">Askabout（アスク・アバウト）</a> 
+<!-- <p class="nav-link mb-6">当社の公開調査レポートをnoteに掲載しています。</p> -->
+<!-- </div> -->
+
 
 <h5><i class="fa fa-book text-primary"></i> アンケート調査設計</h5>
 マルチエージェントの生成AIシミュレーション等の技術で従来の対人インタビュー調査を模倣し、効率的な調査設計を実現します。
