@@ -73,7 +73,7 @@ Aska（アスカ）は、自由記述を含む回答をSNS形式で収集する�
 #### <i class="fa fa-video text-danger"></i> 【トピック解説】データスクリーニング
 収集した調査データに含まれる無効なデータをスクリーニングすることで、データの質を向上させることができます。学術論文を基に、メジャーなスクリーニング手法をご紹介します。
 
-<a class="btn btn-secondary mb-1" href="https://note.com/tatsurokawamoto/n/n613fa5036081">noteにてセット販売（¥1,500）</a> 
+<a class="btn btn-secondary mb-1" href="https://note.com/askaintelligence/n/n613fa5036081">noteにてセット販売（¥1,500）</a> 
 
 1. Satisficing（サティスファイシング）
 2. 禁じ手？強力すぎる検出法「IMC」
@@ -97,11 +97,11 @@ Aska（アスカ）は、自由記述を含む回答をSNS形式で収集する�
 
 
 #### <i class="fa fa-book text-secondary"></i> アンケート調査に関する単発コラム
-- [アンケート調査の歴史概観](https://note.com/tatsurokawamoto/n/ndc9f5b9c82a9?magazine_key=md9a5e1426a22)
-- [リッカート尺度の原論文を読む](https://note.com/tatsurokawamoto/n/nd0a0dc74a6f3?magazine_key=md9a5e1426a22)
-- [リッカート尺度についての誤解と論争](https://note.com/tatsurokawamoto/n/n3aa9c5d4f600?magazine_key=md9a5e1426a22)
-- [アンケート調査の「エキスパートレビュー」とは何なのか](https://note.com/tatsurokawamoto/n/nae39d6916dfc?magazine_key=md9a5e1426a22)
-- [選択式アンケートの難しさ 〜質問文と選択肢〜](https://note.com/tatsurokawamoto/n/nef79ee1b7ca8?magazine_key=md9a5e1426a22)
+- [アンケート調査の歴史概観](https://note.com/askaintelligence/n/ndc9f5b9c82a9?magazine_key=md9a5e1426a22)
+- [リッカート尺度の原論文を読む](https://note.com/askaintelligence/n/nd0a0dc74a6f3?magazine_key=md9a5e1426a22)
+- [リッカート尺度についての誤解と論争](https://note.com/askaintelligence/n/n3aa9c5d4f600?magazine_key=md9a5e1426a22)
+- [アンケート調査の「エキスパートレビュー」とは何なのか](https://note.com/askaintelligence/n/nae39d6916dfc?magazine_key=md9a5e1426a22)
+- [選択式アンケートの難しさ 〜質問文と選択肢〜](https://note.com/askaintelligence/n/nef79ee1b7ca8?magazine_key=md9a5e1426a22)
 
 
 
@@ -117,12 +117,12 @@ Aska（アスカ）は、自由記述を含む回答をSNS形式で収集する�
 ##### note
 <a target="_blank" class="btn btn-warning mb-1" href="">noteにて無料公開（Zenn本のダイジェスト版）</a> 
 
-1. [因子分析モデルは２タイプある](https://note.com/tatsurokawamoto/n/n0eff266c43bd)
-2. [最尤法の解は存在しない？](https://note.com/tatsurokawamoto/n/n8cd8e5deb62e)
-3. [因子負荷の最尤法は実は賢い](https://note.com/tatsurokawamoto/n/n87ca6419b213)
-4. [因子分析と主成分分析の違いを数式でざっくり理解する](https://note.com/tatsurokawamoto/n/nf8d81565f8c7)
-5. [トムソンの方法・サーストンの方法とは何なのか](https://note.com/tatsurokawamoto/n/na14e4493fbbe)
-6. [因子負荷推定の最小二乗法について](https://note.com/tatsurokawamoto/n/nf0c870885283)
+1. [因子分析モデルは２タイプある](https://note.com/askaintelligence/n/n0eff266c43bd)
+2. [最尤法の解は存在しない？](https://note.com/askaintelligence/n/n8cd8e5deb62e)
+3. [因子負荷の最尤法は実は賢い](https://note.com/askaintelligence/n/n87ca6419b213)
+4. [因子分析と主成分分析の違いを数式でざっくり理解する](https://note.com/askaintelligence/n/nf8d81565f8c7)
+5. [トムソンの方法・サーストンの方法とは何なのか](https://note.com/askaintelligence/n/na14e4493fbbe)
+6. [因子負荷推定の最小二乗法について](https://note.com/askaintelligence/n/nf0c870885283)
 
 
 
@@ -131,19 +131,19 @@ Aska（アスカ）は、自由記述を含む回答をSNS形式で収集する�
 #### <i class="fa fa-book text-secondary"></i> ちょっとディープなデータ可視化
 入門書には載っていないような少しディープなデータ可視化の内容について解説していきます（比較的詳しい洋書や学術論文の抜粋解説、独自の解説記事など）。
 
-<a target="_blank" class="btn btn-secondary mb-1" href="https://note.com/tatsurokawamoto/m/mba6802434f82">noteにてセット販売（¥500）</a> 
+<a target="_blank" class="btn btn-secondary mb-1" href="https://note.com/askaintelligence/m/mba6802434f82">noteにてセット販売（¥500）</a> 
 
-- [1.0 人間は角度を測れないのか：円グラフについての批判と誤解](https://note.com/tatsurokawamoto/n/n00625ce422ce?magazine_key=mba6802434f82)
-- [1.1 人間は面積を測れないのか：バブルチャートについての批判と誤解](https://note.com/tatsurokawamoto/n/n22b750b4b0f7?magazine_key=mba6802434f82)
-- [1.2 装飾的な可視化を弁護してみる](https://note.com/tatsurokawamoto/n/ndc9e801a3437?magazine_key=mba6802434f82)
-- [1.3 「読者は、可視化を理解する努力をしたくないはず」という誤解](https://note.com/tatsurokawamoto/n/n3932442cdf3a?magazine_key=mba6802434f82)
-- [1.4 可視化を評価する：データ-インク比（Data-ink ratio）という考え方](https://note.com/tatsurokawamoto/n/ndef4569c0e66?magazine_key=mba6802434f82)
-- [1.5 可視化を評価する： Visualization Wheelという考え方](https://note.com/tatsurokawamoto/n/n26dc76254666?magazine_key=mba6802434f82)
-- [1.6 「折れ線グラフは"読めない"」論争](https://note.com/tatsurokawamoto/n/n2606d6885b1d?magazine_key=mba6802434f82)
-- [2.0 ２次元ヒストグラム：Hexagonal binning（六角ビニング）を理解する](https://note.com/tatsurokawamoto/n/n4e7fb8b67db7?magazine_key=mba6802434f82)
-- [2.1 色の重ね合わせ：Alpha blendingを理解する](https://note.com/tatsurokawamoto/n/nb922e93dc90e?magazine_key=mba6802434f82)
-- [3.0 関係データの可視化：Hierarchical Edge Bundleを理解する](https://note.com/tatsurokawamoto/n/nadef04469a6c?magazine_key=mba6802434f82)
-- [3.1 高次元データの可視化：Parallel Coordinate Plotを理解する](https://note.com/tatsurokawamoto/n/nd9c9030ac3c7?magazine_key=mba6802434f82)
+- [1.0 人間は角度を測れないのか：円グラフについての批判と誤解](https://note.com/askaintelligence/n/n00625ce422ce?magazine_key=mba6802434f82)
+- [1.1 人間は面積を測れないのか：バブルチャートについての批判と誤解](https://note.com/askaintelligence/n/n22b750b4b0f7?magazine_key=mba6802434f82)
+- [1.2 装飾的な可視化を弁護してみる](https://note.com/askaintelligence/n/ndc9e801a3437?magazine_key=mba6802434f82)
+- [1.3 「読者は、可視化を理解する努力をしたくないはず」という誤解](https://note.com/askaintelligence/n/n3932442cdf3a?magazine_key=mba6802434f82)
+- [1.4 可視化を評価する：データ-インク比（Data-ink ratio）という考え方](https://note.com/askaintelligence/n/ndef4569c0e66?magazine_key=mba6802434f82)
+- [1.5 可視化を評価する： Visualization Wheelという考え方](https://note.com/askaintelligence/n/n26dc76254666?magazine_key=mba6802434f82)
+- [1.6 「折れ線グラフは"読めない"」論争](https://note.com/askaintelligence/n/n2606d6885b1d?magazine_key=mba6802434f82)
+- [2.0 ２次元ヒストグラム：Hexagonal binning（六角ビニング）を理解する](https://note.com/askaintelligence/n/n4e7fb8b67db7?magazine_key=mba6802434f82)
+- [2.1 色の重ね合わせ：Alpha blendingを理解する](https://note.com/askaintelligence/n/nb922e93dc90e?magazine_key=mba6802434f82)
+- [3.0 関係データの可視化：Hierarchical Edge Bundleを理解する](https://note.com/askaintelligence/n/nadef04469a6c?magazine_key=mba6802434f82)
+- [3.1 高次元データの可視化：Parallel Coordinate Plotを理解する](https://note.com/askaintelligence/n/nd9c9030ac3c7?magazine_key=mba6802434f82)
 
 
 
@@ -166,12 +166,12 @@ ChatGPT等の技術について、学術論文やソフトウェアなどの簡�
 - [Can You Trust LLM's Confidence?](https://www.youtube.com/watch?v=6fKsHcYhIEY&list=PLE7BfQ3Kqcbwogk7BJoLv2p98jDCUOJvq&index=16)
 
 ##### note
-<a target="_blank" class="btn btn-warning mb-1" href="https://note.com/tatsurokawamoto/m/m4a1362533df6">noteにて無料公開</a> 
+<a target="_blank" class="btn btn-warning mb-1" href="https://note.com/askaintelligence/m/m4a1362533df6">noteにて無料公開</a> 
 
-- [ChatGPTはヘイトスピーチを理解できるのか](https://note.com/tatsurokawamoto/n/ncfb42b285330?magazine_key=m4a1362533df6)
-- [マルチ・エージェントプロンプトでLLMのパフォーマンスは向上するのか](https://note.com/tatsurokawamoto/n/nfd7ece5cf0ec?magazine_key=m4a1362533df6)
-- [MMLUデータセットとは何か: LLMの性能測定](https://note.com/tatsurokawamoto/n/nef9224153df9?magazine_key=m4a1362533df6)
-- [LLMのキャリブレーション："logprob"の値が高ければ結果を信頼できるのか？](https://note.com/tatsurokawamoto/n/nc19f75a3c6e6?magazine_key=m4a1362533df6)
+- [ChatGPTはヘイトスピーチを理解できるのか](https://note.com/askaintelligence/n/ncfb42b285330?magazine_key=m4a1362533df6)
+- [マルチ・エージェントプロンプトでLLMのパフォーマンスは向上するのか](https://note.com/askaintelligence/n/nfd7ece5cf0ec?magazine_key=m4a1362533df6)
+- [MMLUデータセットとは何か: LLMの性能測定](https://note.com/askaintelligence/n/nef9224153df9?magazine_key=m4a1362533df6)
+- [LLMのキャリブレーション："logprob"の値が高ければ結果を信頼できるのか？](https://note.com/askaintelligence/n/nc19f75a3c6e6?magazine_key=m4a1362533df6)
 
 
 

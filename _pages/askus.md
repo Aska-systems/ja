@@ -15,7 +15,7 @@ Aska Intelligenceの調査技術をご利用いただけます。
 
 <!-- <div class="jumbotron pt-3 pb-0"> -->
 <h6 class="mb-2">世界をもっとよく理解する調査</h6>
-<a href="https://note.com/tatsurokawamoto/m/maece3a3a7953" class="btn btn-warning mb-5">Askabout（アスク・アバウト）</a> 
+<a href="https://note.com/askaintelligence/m/maece3a3a7953" class="btn btn-warning mb-5">Askabout（アスク・アバウト）</a> 
 <!-- <p class="nav-link mb-6">当社の公開調査レポートをnoteに掲載しています。</p> -->
 <!-- </div> -->
 
