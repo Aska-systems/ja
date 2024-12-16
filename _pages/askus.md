@@ -1,5 +1,5 @@
 ---
-title: "AskUs"
+title: "調査サポート"
 layout: page-sidebar
 permalink: "/askus.html"
 image: "/assets/images/AskUs.jpg"
@@ -8,16 +8,24 @@ comments: false
 
 
 <h3 class="mt-3">調査を依頼 / 調査のサポートを依頼</h3>
-<p class="mb-5">
-Aska Intelligenceの調査技術をご利用いただけます。
-実例としていくつか調査レポートを公開していますので、ぜひ参考にしてください。
+<p class="mb-4">
+受注型の調査・調査支援のサービスです。
+Askaをはじめとして、Aska Intelligenceの調査技術やノウハウを活用した調査を依頼できます。
 </p>
 
+
 <!-- <div class="jumbotron pt-3 pb-0"> -->
-<h6 class="mb-2">世界をもっとよく理解する調査</h6>
-<a href="https://note.com/askaintelligence/m/maece3a3a7953" class="btn btn-warning mb-5">Askabout（アスク・アバウト）</a> 
+<!-- <h6 class="mb-2">調査結果サンプル</h6> -->
+<!-- <a href="https://note.com/askaintelligence/n/n7a7d4a4b7290?magazine_key=maece3a3a7953" class="btn btn-warning mb-5">サンプル（簡易版）</a>  -->
+
+<div class="jumbotron pt-3 pb-2">
+<h5>調査結果サンプル</h5>
+<ul>
+  <li>「戦争と平和についての世論調査」（<a href="https://note.com/askaintelligence/n/n7a7d4a4b7290?magazine_key=maece3a3a7953" target="_blank">簡易版@note）</a></li>
+  <li>「戦争と平和についての世論調査」（<a href="https://zenn.dev/tatsurokawamoto/books/fbc4b2ac392870" target="_blank">詳細版@Zenn）</a></li>
+</ul>
 <!-- <p class="nav-link mb-6">当社の公開調査レポートをnoteに掲載しています。</p> -->
-<!-- </div> -->
+</div>
 
 
 <h5><i class="fa fa-book text-primary"></i> アンケート調査設計</h5>
@@ -43,7 +51,7 @@ SNS型自由記述式アンケートシステム『Aska』を用いて、従来�
 
 
 
-<div class="jumbotron mt-6">
+<!-- <div class="jumbotron mt-6">
   <h1 class="lead">1調査あたりのご料金</h1>
   <h2 class="display-5">¥200,000 (税込)</h2>
   <hr class="my-4">
@@ -51,6 +59,6 @@ SNS型自由記述式アンケートシステム『Aska』を用いて、従来�
 
   <p>ご相談だけでも結構です。まずはお気軽のお問合せください。</p>
   <a class="btn btn-primary btn-lg" href="{{site.baseurl}}/contact" role="button">お問合せ</a>
-</div>
+</div> -->
 
 

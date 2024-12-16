@@ -37,11 +37,14 @@ Aska（アスカ）は、自由記述を含む回答をSNS形式で収集する�
 <a target="_blank" class="btn btn-warning mb-5" href="#">現在準備中です</a>  -->
 
 
-<!-- #### <i class="fa fa-cubes text-primary"></i> AIアンケートシミュレーター
+#### <i class="fa fa-cubes text-primary"></i> 調査サポート
 
 ![AskUs]({{ site.baseurl }}/assets/images/AskUs.jpg)
 
-<a class="btn btn-warning mb-5" href="{{site.baseurl}}/askus">AIアンケートシミュレーター</a>  -->
+受注型の調査・調査支援のサービスです。
+Askaをはじめとして、Aska Intelligenceの調査技術やノウハウを活用した調査を依頼できます。
+
+<a class="btn btn-warning mb-5" href="{{site.baseurl}}/askus">調査サポートについての詳細</a> 
 
 
 <hr>
